@@ -3,7 +3,10 @@ import express from 'express';
 import bodyParser from 'body-parser';
 import ReactDOMServer from 'react-dom/server';
 import { StaticRouter, Route } from 'react-router';
-import { Link } from 'react-router-dom';
+import { createStore, combineReducers, applyMiddleware } from 'redux';
+import { Provider } from 'react-redux';
+import createHistory from 'history/createMemoryHistory';
+import { ConnectedRouter, routerReducer, routerMiddleware, push } from 'react-router-redux';
 import App from './universal/app';
 
 const app = express();
@@ -13,13 +16,28 @@ app.use(express.static('dist'));
 app.use((req, res) => {
   const context = {};
 
+  const history = createHistory({
+    initialEntries: [req.originalUrl],
+  });
+
+  const middleware = routerMiddleware(history);
+
+  const store = createStore(
+    combineReducers({
+      router: routerReducer
+    }),
+    applyMiddleware(middleware)
+  );
+
   const html = ReactDOMServer.renderToString(
-    <StaticRouter
-      location={req.url}
-      context={context}
-    >
-      <App />
-    </StaticRouter>
+    <Provider store={store}>
+      <ConnectedRouter
+        context={context}
+        history={history}
+      >
+        <App />
+      </ConnectedRouter>
+    </Provider>
   );
 
   if (context.url) {

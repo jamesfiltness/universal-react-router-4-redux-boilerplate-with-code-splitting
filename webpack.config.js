@@ -1,6 +1,6 @@
 module.exports = {
   entry: './src/client.js',
- module: {
+  module: {
     loaders: [
       {
         test: /\.(js)$/,
