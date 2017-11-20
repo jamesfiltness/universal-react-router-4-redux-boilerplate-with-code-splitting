@@ -7,8 +7,10 @@ import { createStore, combineReducers, applyMiddleware } from 'redux';
 import { Provider } from 'react-redux';
 import createHistory from 'history/createMemoryHistory';
 import { ConnectedRouter, routerReducer, routerMiddleware } from 'react-router-redux';
-import App from './universal/app';
+import App from './universal/components/app';
 import { requiredPackages } from './universal/reducers';
+import { renderRoutes } from 'react-router-config';
+import routes from './universal/routes';
 
 const app = express();
 
@@ -47,7 +49,7 @@ app.use((req, res) => {
         context={context}
         history={history}
       >
-        <App />
+        {renderRoutes(routes)}
       </ConnectedRouter>
     </Provider>
   );
