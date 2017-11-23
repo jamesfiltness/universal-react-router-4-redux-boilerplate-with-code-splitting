@@ -1,10 +1,10 @@
 import React from 'react';
 
-const Home = () => {
+const Home = (props) => {
   return (
     <div>
       <h2>React Router 4</h2>
-      <p>Experimenting with React Router 4 and Redux.</p>
+      <p>{props.text}</p>
     </div>
   );
 }

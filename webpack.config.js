@@ -1,5 +1,5 @@
 module.exports = {
-  entry: './src/client.js',
+  entry: './src/client',
   module: {
     loaders: [
       {

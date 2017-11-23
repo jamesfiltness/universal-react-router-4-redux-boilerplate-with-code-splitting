@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "prestart": "./node_modules/.bin/webpack",
-    "start": "babel-node ./src/server.js"
+    "start": "babel-node ./src/server"
   },
   "author": "James Filtness",
   "dependencies": {

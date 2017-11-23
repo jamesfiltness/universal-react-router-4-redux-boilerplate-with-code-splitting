@@ -5,14 +5,15 @@ import { renderRoutes } from 'react-router-config';
 
 function mapStateToProps(state) {
   return {
-    requiredPackages: state.requiredPackages
+    requiredPackages: state.requiredPackages,
+    text: state.text,
   }
 }
 
 const App = (props) => {
   return (
     <div>
-      {renderRoutes(props.route.routes)}
+      {renderRoutes(props.route.routes, props)}
       <ul className="nav">
         <li><Link to="/">Home</Link></li>
         <li><Link to="/about">About</Link></li>
