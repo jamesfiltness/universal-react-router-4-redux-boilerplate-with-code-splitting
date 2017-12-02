@@ -18,11 +18,11 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        {renderRoutes(this.props.route.routes, this.props)}
         <ul className="nav">
           <li><Link to="/">Home</Link></li>
           <li><Link to="/about">About</Link></li>
         </ul>
+        {renderRoutes(this.props.route.routes, this.props)}
       </div>
     );
   }
