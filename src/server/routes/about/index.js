@@ -6,6 +6,7 @@ export function getAboutPage(req, res, next) {
   // history event
   res.data = {
     pageData: {
+      title: 'About',
       text: 'Some about copy'
     }
   };

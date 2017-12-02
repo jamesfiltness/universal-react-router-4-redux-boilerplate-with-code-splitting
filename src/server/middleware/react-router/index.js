@@ -10,7 +10,7 @@ import { renderRoutes } from 'react-router-config';
 import thunkMiddleware from 'redux-thunk';
 
 import App from '../../../universal/components/app';
-import { pageData } from '../../../universal/reducers';
+import { pageData, dataLoading } from '../../../universal/reducers';
 import routes from '../../../universal/routes';
 
 export default () => {
@@ -25,9 +25,10 @@ export default () => {
     const store = createStore(
       combineReducers({
         pageData,
+        dataLoading,
         routing: routerReducer
       }),
-      res.data,
+      { ...res.data, ...{ dataLoading: false } },
       applyMiddleware(middleware, thunkMiddleware)
     );
 

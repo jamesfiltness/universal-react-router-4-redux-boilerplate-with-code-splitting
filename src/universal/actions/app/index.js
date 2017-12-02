@@ -21,10 +21,16 @@ export function historyLocationChange(location) {
 
     if (res.ok) {
       const data = await res.json();
-      dispatch(rehydrateState(data));
+      
+      // Add a delay to simulate fetching data from a real app
+      // This allows us to see the spinner whilst route data
+      // is being fetched
+      setTimeout(() => {
+        dispatch(rehydrateState(data));
+        dispatch(dataLoading(false));
+      }, 400);
     }     
     
-    dispatch(dataLoading(false));
   }
 }
 

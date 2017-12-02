@@ -9,7 +9,7 @@ import { renderRoutes } from 'react-router-config';
 import thunkMiddleware from 'redux-thunk';
 
 import App from '../universal/components/app';
-import { pageData } from '../universal/reducers';
+import { pageData, dataLoading } from '../universal/reducers';
 import routes from '../universal/routes';
 import * as types from '../universal/actions/types';
 
@@ -23,6 +23,7 @@ const initialState = window.__PRELOADED_STATE__;
 // https://stackoverflow.com/a/35641992/392572
 const appReducer = combineReducers({
   pageData,
+  dataLoading,
   routing: routerReducer
 });
 

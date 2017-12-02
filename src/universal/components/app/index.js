@@ -30,7 +30,9 @@ class App extends React.Component {
 
 function mapStateToProps(state) {
   return {
+    title: state.pageData.title,
     text: state.pageData.text,
+    dataFetching: state.dataLoading,
   }
 }
 
