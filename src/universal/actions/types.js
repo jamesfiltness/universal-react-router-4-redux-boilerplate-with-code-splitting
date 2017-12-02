@@ -1,0 +1,2 @@
+export const DATA_LOADING = 'DATA_LOADING';
+export const REHYDRATE_STATE = 'REHYDRATE_STATE';

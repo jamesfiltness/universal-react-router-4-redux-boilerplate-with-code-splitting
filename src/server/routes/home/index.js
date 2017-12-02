@@ -2,8 +2,15 @@ import express from 'express';
 
 export function getHomepage(req, res, next) {
   res.data = {
-    text: 'Experimenting with React Router 4 and Redux.'
+    pageData: {
+      text: 'This is a universal React/Redux/Express app with data-fetching and code-splitting using dynamic imports()'
+    }
   };
 
-  next();
+  // TODO: Use content negotiation here instead
+  if(req.xhr) {
+    return res.json(res.data);
+  } else {
+    next();
+  }
 }

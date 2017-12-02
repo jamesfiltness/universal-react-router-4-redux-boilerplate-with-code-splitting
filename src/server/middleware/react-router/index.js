@@ -7,9 +7,10 @@ import { Provider } from 'react-redux';
 import createHistory from 'history/createMemoryHistory';
 import { ConnectedRouter, routerReducer, routerMiddleware } from 'react-router-redux';
 import { renderRoutes } from 'react-router-config';
+import thunkMiddleware from 'redux-thunk';
 
 import App from '../../../universal/components/app';
-import { text } from '../../../universal/reducers';
+import { pageData } from '../../../universal/reducers';
 import routes from '../../../universal/routes';
 
 export default () => {
@@ -23,11 +24,11 @@ export default () => {
 
     const store = createStore(
       combineReducers({
-        text,
-        router: routerReducer
+        pageData,
+        routing: routerReducer
       }),
       res.data,
-      applyMiddleware(middleware)
+      applyMiddleware(middleware, thunkMiddleware)
     );
 
     const serverState = store.getState();
