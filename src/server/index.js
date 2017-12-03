@@ -7,5 +7,4 @@ const app = express();
 app.use(express.static('dist'));
 app.use(expressRouter);
 app.use(reactRouterMiddleware());
-
 app.listen(3000);
