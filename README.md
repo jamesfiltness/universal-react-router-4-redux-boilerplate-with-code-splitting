@@ -7,7 +7,7 @@ This boilerplate was created having read [this](https://reacttraining.com/react-
 > ### Code-splitting + server rendering
 > We’ve tried and failed a couple of times...
 
-This boilerplate was originally created to solve the above problem but then I stumbled across [React Loadable] (https://github.com/thejameskyle/react-loadable) and found that code splitting + code splitting was already a solved problem.
+This boilerplate was originally created to solve the above problem but then I stumbled across (React Loadable) [https://github.com/thejameskyle/react-loadable] and discovered that code splitting + universal rendering was already a solved problem.
 
 This boilerplate now exists to show how a single page app with the following features can be put together:
 
