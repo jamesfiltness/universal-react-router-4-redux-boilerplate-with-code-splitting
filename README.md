@@ -1,6 +1,6 @@
 # Universal React Router 4 Redux boilerplate
 
-:construction: :rotating_light: :construction: _Work in progress. Current progress is a universal, React Router 4, Redux app with data-fetching._ :construction: :rotating_light: :construction:
+:construction: :rotating_light: :construction: _Work in progress. Currently this is a universal, React Router 4, Redux app with data-fetching. Next up is component-centric code splitting using React Loadable_ :construction: :rotating_light: :construction:
 
 This boilerplate was created having read [this](https://reacttraining.com/react-router/web/guides/code-splitting/code-splitting-server-rendering) in React Router 4's documentation for code splitting:
 
