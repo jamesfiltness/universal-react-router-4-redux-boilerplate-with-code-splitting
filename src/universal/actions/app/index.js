@@ -28,7 +28,7 @@ export function historyLocationChange(location) {
       setTimeout(() => {
         dispatch(rehydrateState(data));
         dispatch(dataLoading(false));
-      }, 400);
+      }, 300);
     }     
     
   }

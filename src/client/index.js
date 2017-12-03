@@ -21,6 +21,7 @@ const initialState = window.__PRELOADED_STATE__;
 // App reducer pattern is needed so state can be rehydrated
 // when it receives new data after a history event
 // https://stackoverflow.com/a/35641992/392572
+// TODO: share this between client and server
 const appReducer = combineReducers({
   pageData,
   dataLoading,
@@ -29,9 +30,7 @@ const appReducer = combineReducers({
 
 const rootReducer = (state, action) => {
   if (action.type === types.REHYDRATE_STATE) {
-    const { routing } = state
-    state = { routing, ...state } 
-    state =  Object.assign(state, action.data);
+    state = { ...state, ...action.data }     
   }
   
   return appReducer(state, action);

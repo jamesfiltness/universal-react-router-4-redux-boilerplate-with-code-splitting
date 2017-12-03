@@ -1,7 +1,6 @@
 import * as types from '../actions/types';
 
 export function pageData(state = "", action) {
-  console.log(action);
   switch (action.type) {
     default:
       return state;

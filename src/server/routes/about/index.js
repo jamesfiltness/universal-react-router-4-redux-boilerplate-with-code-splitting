@@ -1,9 +1,6 @@
 import express from 'express';
 
 export function getAboutPage(req, res, next) {
-  // the separate pageData object contains data that will be sent when the
-  // request has originated from an ajax request triggered by a browser 
-  // history event
   res.data = {
     pageData: {
       title: 'About',

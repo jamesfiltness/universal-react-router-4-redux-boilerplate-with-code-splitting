@@ -9,7 +9,7 @@ import * as appActions from '../../actions/app';
 class App extends React.Component {
   constructor(props) {
     super(props);
-
+    // TODO: Maybe this shouldn't live in the App component
     this.props.history.listen((location, action) => {
       this.props.historyLocationChange(location); 
     });
