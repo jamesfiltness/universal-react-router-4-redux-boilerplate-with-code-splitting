@@ -9,4 +9,4 @@ I quickly stumbled across [React Loadable](https://github.com/thejameskyle/react
 
 This boilerplate demonstrates a minimal universal React/Redux/React Router 4 SPA with code splitting and async data-fetching.
 
-I'll flesh this out with other features to make the a more complete boilerplate shortly.
+I'll flesh this out (and tidy up) with other features to make the a more complete boilerplate shortly.
