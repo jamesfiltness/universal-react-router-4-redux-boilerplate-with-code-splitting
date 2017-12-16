@@ -1,3 +1,4 @@
+import "babel-polyfill";
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter, Route, Link } from 'react-router-dom';
@@ -7,6 +8,7 @@ import createHistory from 'history/createBrowserHistory';
 import { ConnectedRouter, routerReducer, routerMiddleware } from 'react-router-redux';
 import { renderRoutes } from 'react-router-config';
 import thunkMiddleware from 'redux-thunk';
+import Loadable from 'react-loadable';
 
 import App from '../universal/components/app';
 import { pageData, dataLoading } from '../universal/reducers';
@@ -30,9 +32,9 @@ const appReducer = combineReducers({
 
 const rootReducer = (state, action) => {
   if (action.type === types.REHYDRATE_STATE) {
-    state = { ...state, ...action.data }     
+    state = { ...state, ...action.data }
   }
-  
+
   return appReducer(state, action);
 }
 
@@ -44,10 +46,14 @@ const store = createStore(
   applyMiddleware(middleware, thunkMiddleware)
 );
 
-ReactDOM.hydrate((
-  <Provider store={store}>
-    <ConnectedRouter history={history}>
-        {renderRoutes(routes)}
-    </ConnectedRouter>
-  </Provider>
-), document.getElementById('app'))
+window.main = () => {
+  Loadable.preloadReady().then(() => {
+    ReactDOM.hydrate((
+      <Provider store={store}>
+        <ConnectedRouter history={history}>
+          {renderRoutes(routes)}
+        </ConnectedRouter>
+      </Provider>
+    ), document.getElementById('app'))
+  });
+}

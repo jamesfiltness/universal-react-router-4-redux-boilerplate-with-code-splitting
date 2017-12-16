@@ -1,18 +1,13 @@
 import React from 'react';
 
 const About = (props) => {
-  if (props.dataFetching) { 
-    return (  
-      <p>Loading...</p>
-    ); 
-  } else {
-    return ( 
-      <div>
-        <h2>{props.title}</h2>
-        <p>{props.text}</p>
-      </div> 
-    );
-  }
+  return (
+    <div className="about">
+      <h2 className="about__title">{props.title}</h2>
+      <p className="about__text">{props.text}</p>
+    </div>
+  );
+
 };
 
 export default About

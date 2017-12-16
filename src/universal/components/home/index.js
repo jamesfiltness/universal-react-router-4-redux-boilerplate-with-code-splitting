@@ -1,18 +1,12 @@
 import React from 'react';
 
 const Home = (props) => {
-  if (props.dataFetching) { 
-    return (  
-      <p>Loading...</p>
-    ); 
-  } else {
-    return ( 
-      <div>
-        <h2>{props.title}</h2>
-        <p>{props.text}</p>
-      </div> 
-    );
-  }
+  return (
+    <div className="home">
+      <h2 className="home__title">{props.title}</h2>
+      <p className="home__text">{props.text}</p>
+    </div>
+  );
 }
 
 export default Home
