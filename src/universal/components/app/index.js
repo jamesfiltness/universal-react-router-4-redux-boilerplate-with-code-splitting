@@ -11,13 +11,13 @@ class App extends React.Component {
     super(props);
     // TODO: Maybe this shouldn't live in the App component
     this.props.history.listen((location, action) => {
-      this.props.historyLocationChange(location); 
+      this.props.historyLocationChange(location);
     });
   }
 
   render() {
     return (
-      <div>
+      <div className="ummy">
         <ul className="nav">
           <li><Link to="/">Home</Link></li>
           <li><Link to="/about">About</Link></li>

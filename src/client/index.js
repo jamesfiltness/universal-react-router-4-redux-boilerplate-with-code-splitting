@@ -1,3 +1,4 @@
+import "babel-polyfill";
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter, Route, Link } from 'react-router-dom';
@@ -30,9 +31,9 @@ const appReducer = combineReducers({
 
 const rootReducer = (state, action) => {
   if (action.type === types.REHYDRATE_STATE) {
-    state = { ...state, ...action.data }     
+    state = { ...state, ...action.data }
   }
-  
+
   return appReducer(state, action);
 }
 

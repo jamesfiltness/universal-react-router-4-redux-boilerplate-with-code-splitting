@@ -4,11 +4,13 @@
   "description": "Experimenting with React Router 4 and how it can work with Redux",
   "main": "server.js",
   "scripts": {
-    "prestart": "./node_modules/.bin/webpack",
-    "start": "babel-watch ./src/server"
+    "prestart": "BABEL_ENV=browser ./node_modules/.bin/webpack",
+    "start": "BABEL_ENV=node babel-watch ./src/server"
   },
   "author": "James Filtness",
   "dependencies": {
+    "babel-plugin-dynamic-import-node": "^1.2.0",
+    "babel-polyfill": "^6.26.0",
     "express": "^4.16.2",
     "history": "^4.7.2",
     "isomorphic-fetch": "^2.2.1",
@@ -29,6 +31,7 @@
     "babel-preset-env": "^1.6.0",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
+    "babel-register": "^6.26.0",
     "babel-watch": "^2.0.7",
     "webpack": "^3.7.1"
   }

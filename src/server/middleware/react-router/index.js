@@ -8,6 +8,9 @@ import createHistory from 'history/createMemoryHistory';
 import { ConnectedRouter, routerReducer, routerMiddleware } from 'react-router-redux';
 import { renderRoutes } from 'react-router-config';
 import thunkMiddleware from 'redux-thunk';
+import Loadable from 'react-loadable';
+import { getBundles } from 'react-loadable/webpack'
+import stats from '../../../../dist/react-loadable.json';
 
 import App from '../../../universal/components/app';
 import { pageData, dataLoading } from '../../../universal/reducers';
@@ -19,6 +22,8 @@ export default () => {
     const history = createHistory({
       initialEntries: [req.originalUrl],
     });
+
+    let modules = [];
 
     const middleware = routerMiddleware(history);
 
@@ -40,10 +45,15 @@ export default () => {
           context={context}
           history={history}
         >
+        <Loadable.Capture report={moduleName => modules.push(moduleName)}>
           {renderRoutes(routes)}
-        </ConnectedRouter>
+         </Loadable.Capture>
+           </ConnectedRouter>
       </Provider>
     );
+
+    let bundles = getBundles(stats, modules);
+
     if (context.url) {
       res.redirect(301, context.url);
     } else {
@@ -58,6 +68,9 @@ export default () => {
             window.__PRELOADED_STATE__ = ${JSON.stringify(serverState)}
           </script>
           <script src="http://localhost:3000/bundle.js"></script>
+          ${bundles.map(bundle => {
+            return `<script src="http://localhost:3000/${bundle.file}"></script>`
+          }).join('\n')}
         </body>
         </html>
       `);
