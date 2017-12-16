@@ -1,4 +1,4 @@
-const path = require("path");
+import path from 'path';
 import { ReactLoadablePlugin } from 'react-loadable/webpack';
 
 module.exports = {
@@ -11,7 +11,6 @@ module.exports = {
         exclude: /node_modules/,
       }
     ],
-
   },
   plugins: [
     new ReactLoadablePlugin({

@@ -71,6 +71,7 @@ export default () => {
           ${bundles.map(bundle => {
             return `<script src="http://localhost:3000/${bundle.file}"></script>`
           }).join('\n')}
+          <script>window.main();</script>
         </body>
         </html>
       `);
