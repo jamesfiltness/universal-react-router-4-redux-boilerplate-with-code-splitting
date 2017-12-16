@@ -3,7 +3,6 @@ import React from 'react';
 import Loadable from 'react-loadable';
 import App from '../components/app';
 
-
 function Loading(props) {
   if (props.error) {
     return <div>Error!</div>;

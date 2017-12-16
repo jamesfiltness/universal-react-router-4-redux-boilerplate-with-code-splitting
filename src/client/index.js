@@ -8,6 +8,7 @@ import createHistory from 'history/createBrowserHistory';
 import { ConnectedRouter, routerReducer, routerMiddleware } from 'react-router-redux';
 import { renderRoutes } from 'react-router-config';
 import thunkMiddleware from 'redux-thunk';
+import Loadable from 'react-loadable';
 
 import App from '../universal/components/app';
 import { pageData, dataLoading } from '../universal/reducers';
@@ -45,10 +46,14 @@ const store = createStore(
   applyMiddleware(middleware, thunkMiddleware)
 );
 
-ReactDOM.hydrate((
-  <Provider store={store}>
-    <ConnectedRouter history={history}>
-        {renderRoutes(routes)}
-    </ConnectedRouter>
-  </Provider>
-), document.getElementById('app'))
+window.main = () => {
+  Loadable.preloadReady().then(() => {
+    ReactDOM.hydrate((
+      <Provider store={store}>
+        <ConnectedRouter history={history}>
+          {renderRoutes(routes)}
+        </ConnectedRouter>
+      </Provider>
+    ), document.getElementById('app'))
+  });
+}
