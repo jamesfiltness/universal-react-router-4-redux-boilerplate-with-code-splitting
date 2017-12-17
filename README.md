@@ -10,3 +10,5 @@ I quickly stumbled across [React Loadable](https://github.com/thejameskyle/react
 This boilerplate demonstrates a minimal universal React/Redux/React Router 4 SPA with code splitting and async data-fetching.
 
 I'll flesh this out (and tidy up) with other features to make this a more complete boilerplate shortly.
+
+Run `npm i` followed by `npm start` to get the app running at `localhost:3000`
