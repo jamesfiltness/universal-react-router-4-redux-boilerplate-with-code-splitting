@@ -61,6 +61,7 @@ export default () => {
         <!doctype html>
         <head>
           <title>React Router 4/Redux boilerplate</title>
+          <link href="http://localhost:3000/styles.css" media="all" rel="stylesheet" />
         </head>
         <body>
           <div id="app">${html}</div>

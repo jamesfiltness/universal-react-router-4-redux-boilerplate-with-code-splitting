@@ -1,0 +1,5564 @@
+{
+  "../components/home": [
+    {
+      "id": 190,
+      "name": "./src/universal/components/home/index.js",
+      "file": "0.a15a956e44adc125a13e.bundle.js"
+    }
+  ],
+  "../components/about": [
+    {
+      "id": 189,
+      "name": "./src/universal/components/about/index.js",
+      "file": "1.38540f73f0df2870c021.bundle.js"
+    }
+  ],
+  "./modules/es6.string.strike": [
+    {
+      "id": 268,
+      "name": "./node_modules/core-js/modules/es6.string.strike.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 268,
+      "name": "./node_modules/core-js/modules/es6.string.strike.js",
+      "file": "styles.css"
+    }
+  ],
+  "./src/client": [
+    {
+      "id": 191,
+      "name": "./src/client/index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 191,
+      "name": "./src/client/index.js",
+      "file": "styles.css"
+    }
+  ],
+  "babel-polyfill": [
+    {
+      "id": 193,
+      "name": "./node_modules/babel-polyfill/lib/index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 193,
+      "name": "./node_modules/babel-polyfill/lib/index.js",
+      "file": "styles.css"
+    }
+  ],
+  "react": [
+    {
+      "id": 5,
+      "name": "./node_modules/react/index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 5,
+      "name": "./node_modules/react/index.js",
+      "file": "styles.css"
+    }
+  ],
+  "react-dom": [
+    {
+      "id": 397,
+      "name": "./node_modules/react-dom/index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 397,
+      "name": "./node_modules/react-dom/index.js",
+      "file": "styles.css"
+    }
+  ],
+  "react-router-dom": [
+    {
+      "id": 158,
+      "name": "./node_modules/react-router-dom/es/index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 158,
+      "name": "./node_modules/react-router-dom/es/index.js",
+      "file": "styles.css"
+    }
+  ],
+  "redux": [
+    {
+      "id": 113,
+      "name": "./node_modules/redux/es/index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 113,
+      "name": "./node_modules/redux/es/index.js",
+      "file": "styles.css"
+    }
+  ],
+  "react-redux": [
+    {
+      "id": 178,
+      "name": "./node_modules/react-redux/es/index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 178,
+      "name": "./node_modules/react-redux/es/index.js",
+      "file": "styles.css"
+    }
+  ],
+  "history/createBrowserHistory": [
+    {
+      "id": 159,
+      "name": "./node_modules/history/createBrowserHistory.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 159,
+      "name": "./node_modules/history/createBrowserHistory.js",
+      "file": "styles.css"
+    }
+  ],
+  "react-router-redux": [
+    {
+      "id": 449,
+      "name": "./node_modules/react-router-redux/es/index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 449,
+      "name": "./node_modules/react-router-redux/es/index.js",
+      "file": "styles.css"
+    }
+  ],
+  "react-router-config": [
+    {
+      "id": 186,
+      "name": "./node_modules/react-router-config/es/index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 186,
+      "name": "./node_modules/react-router-config/es/index.js",
+      "file": "styles.css"
+    }
+  ],
+  "redux-thunk": [
+    {
+      "id": 458,
+      "name": "./node_modules/redux-thunk/lib/index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 458,
+      "name": "./node_modules/redux-thunk/lib/index.js",
+      "file": "styles.css"
+    }
+  ],
+  "react-loadable": [
+    {
+      "id": 187,
+      "name": "./node_modules/react-loadable/lib/index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 187,
+      "name": "./node_modules/react-loadable/lib/index.js",
+      "file": "styles.css"
+    }
+  ],
+  "../universal/components/app": [
+    {
+      "id": 188,
+      "name": "./src/universal/components/app/index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 188,
+      "name": "./src/universal/components/app/index.js",
+      "file": "styles.css"
+    }
+  ],
+  "../universal/reducers": [
+    {
+      "id": 462,
+      "name": "./src/universal/reducers/index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 462,
+      "name": "./src/universal/reducers/index.js",
+      "file": "styles.css"
+    }
+  ],
+  "../universal/routes": [
+    {
+      "id": 463,
+      "name": "./src/universal/routes/index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 463,
+      "name": "./src/universal/routes/index.js",
+      "file": "styles.css"
+    }
+  ],
+  "../universal/actions/types": [
+    {
+      "id": 117,
+      "name": "./src/universal/actions/types.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 117,
+      "name": "./src/universal/actions/types.js",
+      "file": "styles.css"
+    }
+  ],
+  "path": [
+    {
+      "id": 464,
+      "name": "./node_modules/path-browserify/index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 464,
+      "name": "./node_modules/path-browserify/index.js",
+      "file": "styles.css"
+    }
+  ],
+  "./../process/browser.js": [
+    {
+      "id": 10,
+      "name": "./node_modules/process/browser.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 10,
+      "name": "./node_modules/process/browser.js",
+      "file": "styles.css"
+    }
+  ],
+  "../../actions/app": [
+    {
+      "id": 459,
+      "name": "./src/universal/actions/app/index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 459,
+      "name": "./src/universal/actions/app/index.js",
+      "file": "styles.css"
+    }
+  ],
+  "isomorphic-fetch": [
+    {
+      "id": 460,
+      "name": "./node_modules/isomorphic-fetch/fetch-npm-browserify.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 460,
+      "name": "./node_modules/isomorphic-fetch/fetch-npm-browserify.js",
+      "file": "styles.css"
+    }
+  ],
+  "whatwg-fetch": [
+    {
+      "id": 461,
+      "name": "./node_modules/whatwg-fetch/fetch.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 461,
+      "name": "./node_modules/whatwg-fetch/fetch.js",
+      "file": "styles.css"
+    }
+  ],
+  "prop-types": [
+    {
+      "id": 12,
+      "name": "./node_modules/prop-types/index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 12,
+      "name": "./node_modules/prop-types/index.js",
+      "file": "styles.css"
+    }
+  ],
+  "./factoryWithTypeCheckers": [
+    {
+      "id": 407,
+      "name": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 407,
+      "name": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+      "file": "styles.css"
+    }
+  ],
+  "./factoryWithThrowingShims": [
+    {
+      "id": 408,
+      "name": "./node_modules/prop-types/factoryWithThrowingShims.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 408,
+      "name": "./node_modules/prop-types/factoryWithThrowingShims.js",
+      "file": "styles.css"
+    }
+  ],
+  "fbjs/lib/emptyFunction": [
+    {
+      "id": 36,
+      "name": "./node_modules/fbjs/lib/emptyFunction.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 36,
+      "name": "./node_modules/fbjs/lib/emptyFunction.js",
+      "file": "styles.css"
+    }
+  ],
+  "fbjs/lib/invariant": [
+    {
+      "id": 56,
+      "name": "./node_modules/fbjs/lib/invariant.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 56,
+      "name": "./node_modules/fbjs/lib/invariant.js",
+      "file": "styles.css"
+    }
+  ],
+  "./lib/ReactPropTypesSecret": [
+    {
+      "id": 107,
+      "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 107,
+      "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "styles.css"
+    }
+  ],
+  "fbjs/lib/warning": [
+    {
+      "id": 75,
+      "name": "./node_modules/fbjs/lib/warning.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 75,
+      "name": "./node_modules/fbjs/lib/warning.js",
+      "file": "styles.css"
+    }
+  ],
+  "object-assign": [
+    {
+      "id": 55,
+      "name": "./node_modules/object-assign/index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 55,
+      "name": "./node_modules/object-assign/index.js",
+      "file": "styles.css"
+    }
+  ],
+  "prop-types/checkPropTypes": [
+    {
+      "id": 106,
+      "name": "./node_modules/prop-types/checkPropTypes.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 106,
+      "name": "./node_modules/prop-types/checkPropTypes.js",
+      "file": "styles.css"
+    }
+  ],
+  "./matchRoutes": [
+    {
+      "id": 453,
+      "name": "./node_modules/react-router-config/es/matchRoutes.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 453,
+      "name": "./node_modules/react-router-config/es/matchRoutes.js",
+      "file": "styles.css"
+    }
+  ],
+  "./renderRoutes": [
+    {
+      "id": 455,
+      "name": "./node_modules/react-router-config/es/renderRoutes.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 455,
+      "name": "./node_modules/react-router-config/es/renderRoutes.js",
+      "file": "styles.css"
+    }
+  ],
+  "react-router/Switch": [
+    {
+      "id": 456,
+      "name": "./node_modules/react-router/Switch.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 456,
+      "name": "./node_modules/react-router/Switch.js",
+      "file": "styles.css"
+    }
+  ],
+  "react-router/Route": [
+    {
+      "id": 457,
+      "name": "./node_modules/react-router/Route.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 457,
+      "name": "./node_modules/react-router/Route.js",
+      "file": "styles.css"
+    }
+  ],
+  "warning": [
+    {
+      "id": 11,
+      "name": "./node_modules/warning/browser.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 11,
+      "name": "./node_modules/warning/browser.js",
+      "file": "styles.css"
+    }
+  ],
+  "invariant": [
+    {
+      "id": 15,
+      "name": "./node_modules/invariant/browser.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 15,
+      "name": "./node_modules/invariant/browser.js",
+      "file": "styles.css"
+    }
+  ],
+  "react-router/matchPath": [
+    {
+      "id": 116,
+      "name": "./node_modules/react-router/matchPath.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 116,
+      "name": "./node_modules/react-router/matchPath.js",
+      "file": "styles.css"
+    }
+  ],
+  "path-to-regexp": [
+    {
+      "id": 166,
+      "name": "./node_modules/react-router/node_modules/path-to-regexp/index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 166,
+      "name": "./node_modules/react-router/node_modules/path-to-regexp/index.js",
+      "file": "styles.css"
+    }
+  ],
+  "isarray": [
+    {
+      "id": 414,
+      "name": "./node_modules/isarray/index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 414,
+      "name": "./node_modules/isarray/index.js",
+      "file": "styles.css"
+    }
+  ],
+  "react-router/Router": [
+    {
+      "id": 454,
+      "name": "./node_modules/react-router/Router.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 454,
+      "name": "./node_modules/react-router/Router.js",
+      "file": "styles.css"
+    }
+  ],
+  "./ConnectedRouter": [
+    {
+      "id": 450,
+      "name": "./node_modules/react-router-redux/es/ConnectedRouter.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 450,
+      "name": "./node_modules/react-router-redux/es/ConnectedRouter.js",
+      "file": "styles.css"
+    }
+  ],
+  "./selectors": [
+    {
+      "id": 451,
+      "name": "./node_modules/react-router-redux/es/selectors.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 451,
+      "name": "./node_modules/react-router-redux/es/selectors.js",
+      "file": "styles.css"
+    }
+  ],
+  "./reducer": [
+    {
+      "id": 184,
+      "name": "./node_modules/react-router-redux/es/reducer.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 184,
+      "name": "./node_modules/react-router-redux/es/reducer.js",
+      "file": "styles.css"
+    }
+  ],
+  "./actions": [
+    {
+      "id": 185,
+      "name": "./node_modules/react-router-redux/es/actions.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 185,
+      "name": "./node_modules/react-router-redux/es/actions.js",
+      "file": "styles.css"
+    }
+  ],
+  "./middleware": [
+    {
+      "id": 452,
+      "name": "./node_modules/react-router-redux/es/middleware.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 452,
+      "name": "./node_modules/react-router-redux/es/middleware.js",
+      "file": "styles.css"
+    }
+  ],
+  "react-router": [
+    {
+      "id": 183,
+      "name": "./node_modules/react-router/es/index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 183,
+      "name": "./node_modules/react-router/es/index.js",
+      "file": "styles.css"
+    }
+  ],
+  "react-router/es/MemoryRouter": [
+    {
+      "id": 164,
+      "name": "./node_modules/react-router/es/MemoryRouter.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 164,
+      "name": "./node_modules/react-router/es/MemoryRouter.js",
+      "file": "styles.css"
+    }
+  ],
+  "react-router/es/Prompt": [
+    {
+      "id": 167,
+      "name": "./node_modules/react-router/es/Prompt.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 167,
+      "name": "./node_modules/react-router/es/Prompt.js",
+      "file": "styles.css"
+    }
+  ],
+  "react-router/es/Redirect": [
+    {
+      "id": 168,
+      "name": "./node_modules/react-router/es/Redirect.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 168,
+      "name": "./node_modules/react-router/es/Redirect.js",
+      "file": "styles.css"
+    }
+  ],
+  "react-router/es/Route": [
+    {
+      "id": 111,
+      "name": "./node_modules/react-router/es/Route.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 111,
+      "name": "./node_modules/react-router/es/Route.js",
+      "file": "styles.css"
+    }
+  ],
+  "react-router/es/Router": [
+    {
+      "id": 76,
+      "name": "./node_modules/react-router/es/Router.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 76,
+      "name": "./node_modules/react-router/es/Router.js",
+      "file": "styles.css"
+    }
+  ],
+  "react-router/es/StaticRouter": [
+    {
+      "id": 170,
+      "name": "./node_modules/react-router/es/StaticRouter.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 170,
+      "name": "./node_modules/react-router/es/StaticRouter.js",
+      "file": "styles.css"
+    }
+  ],
+  "react-router/es/Switch": [
+    {
+      "id": 171,
+      "name": "./node_modules/react-router/es/Switch.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 171,
+      "name": "./node_modules/react-router/es/Switch.js",
+      "file": "styles.css"
+    }
+  ],
+  "react-router/es/matchPath": [
+    {
+      "id": 77,
+      "name": "./node_modules/react-router/es/matchPath.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 77,
+      "name": "./node_modules/react-router/es/matchPath.js",
+      "file": "styles.css"
+    }
+  ],
+  "react-router/es/withRouter": [
+    {
+      "id": 172,
+      "name": "./node_modules/react-router/es/withRouter.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 172,
+      "name": "./node_modules/react-router/es/withRouter.js",
+      "file": "styles.css"
+    }
+  ],
+  "hoist-non-react-statics": [
+    {
+      "id": 173,
+      "name": "./node_modules/hoist-non-react-statics/index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 173,
+      "name": "./node_modules/hoist-non-react-statics/index.js",
+      "file": "styles.css"
+    }
+  ],
+  "./PathUtils": [
+    {
+      "id": 57,
+      "name": "./node_modules/history/PathUtils.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 58,
+      "name": "./node_modules/history/es/PathUtils.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 57,
+      "name": "./node_modules/history/PathUtils.js",
+      "file": "styles.css"
+    },
+    {
+      "id": 58,
+      "name": "./node_modules/history/es/PathUtils.js",
+      "file": "styles.css"
+    }
+  ],
+  "history": [
+    {
+      "id": 417,
+      "name": "./node_modules/history/es/index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 417,
+      "name": "./node_modules/history/es/index.js",
+      "file": "styles.css"
+    }
+  ],
+  "./createBrowserHistory": [
+    {
+      "id": 418,
+      "name": "./node_modules/history/es/createBrowserHistory.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 418,
+      "name": "./node_modules/history/es/createBrowserHistory.js",
+      "file": "styles.css"
+    }
+  ],
+  "./createHashHistory": [
+    {
+      "id": 419,
+      "name": "./node_modules/history/es/createHashHistory.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 419,
+      "name": "./node_modules/history/es/createHashHistory.js",
+      "file": "styles.css"
+    }
+  ],
+  "./createMemoryHistory": [
+    {
+      "id": 420,
+      "name": "./node_modules/history/es/createMemoryHistory.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 420,
+      "name": "./node_modules/history/es/createMemoryHistory.js",
+      "file": "styles.css"
+    }
+  ],
+  "./LocationUtils": [
+    {
+      "id": 78,
+      "name": "./node_modules/history/es/LocationUtils.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 108,
+      "name": "./node_modules/history/LocationUtils.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 78,
+      "name": "./node_modules/history/es/LocationUtils.js",
+      "file": "styles.css"
+    },
+    {
+      "id": 108,
+      "name": "./node_modules/history/LocationUtils.js",
+      "file": "styles.css"
+    }
+  ],
+  "resolve-pathname": [
+    {
+      "id": 160,
+      "name": "./node_modules/resolve-pathname/index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 160,
+      "name": "./node_modules/resolve-pathname/index.js",
+      "file": "styles.css"
+    }
+  ],
+  "value-equal": [
+    {
+      "id": 161,
+      "name": "./node_modules/value-equal/index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 161,
+      "name": "./node_modules/value-equal/index.js",
+      "file": "styles.css"
+    }
+  ],
+  "./createTransitionManager": [
+    {
+      "id": 112,
+      "name": "./node_modules/history/es/createTransitionManager.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 109,
+      "name": "./node_modules/history/createTransitionManager.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 112,
+      "name": "./node_modules/history/es/createTransitionManager.js",
+      "file": "styles.css"
+    },
+    {
+      "id": 109,
+      "name": "./node_modules/history/createTransitionManager.js",
+      "file": "styles.css"
+    }
+  ],
+  "./DOMUtils": [
+    {
+      "id": 169,
+      "name": "./node_modules/history/es/DOMUtils.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 162,
+      "name": "./node_modules/history/DOMUtils.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 169,
+      "name": "./node_modules/history/es/DOMUtils.js",
+      "file": "styles.css"
+    },
+    {
+      "id": 162,
+      "name": "./node_modules/history/DOMUtils.js",
+      "file": "styles.css"
+    }
+  ],
+  "history/createMemoryHistory": [
+    {
+      "id": 412,
+      "name": "./node_modules/history/createMemoryHistory.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 412,
+      "name": "./node_modules/history/createMemoryHistory.js",
+      "file": "styles.css"
+    }
+  ],
+  "./components/Provider": [
+    {
+      "id": 440,
+      "name": "./node_modules/react-redux/es/components/Provider.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 440,
+      "name": "./node_modules/react-redux/es/components/Provider.js",
+      "file": "styles.css"
+    }
+  ],
+  "./components/connectAdvanced": [
+    {
+      "id": 180,
+      "name": "./node_modules/react-redux/es/components/connectAdvanced.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 180,
+      "name": "./node_modules/react-redux/es/components/connectAdvanced.js",
+      "file": "styles.css"
+    }
+  ],
+  "./connect/connect": [
+    {
+      "id": 442,
+      "name": "./node_modules/react-redux/es/connect/connect.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 442,
+      "name": "./node_modules/react-redux/es/connect/connect.js",
+      "file": "styles.css"
+    }
+  ],
+  "../utils/shallowEqual": [
+    {
+      "id": 443,
+      "name": "./node_modules/react-redux/es/utils/shallowEqual.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 443,
+      "name": "./node_modules/react-redux/es/utils/shallowEqual.js",
+      "file": "styles.css"
+    }
+  ],
+  "./mapDispatchToProps": [
+    {
+      "id": 444,
+      "name": "./node_modules/react-redux/es/connect/mapDispatchToProps.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 444,
+      "name": "./node_modules/react-redux/es/connect/mapDispatchToProps.js",
+      "file": "styles.css"
+    }
+  ],
+  "./mapStateToProps": [
+    {
+      "id": 445,
+      "name": "./node_modules/react-redux/es/connect/mapStateToProps.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 445,
+      "name": "./node_modules/react-redux/es/connect/mapStateToProps.js",
+      "file": "styles.css"
+    }
+  ],
+  "./mergeProps": [
+    {
+      "id": 446,
+      "name": "./node_modules/react-redux/es/connect/mergeProps.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 446,
+      "name": "./node_modules/react-redux/es/connect/mergeProps.js",
+      "file": "styles.css"
+    }
+  ],
+  "./selectorFactory": [
+    {
+      "id": 447,
+      "name": "./node_modules/react-redux/es/connect/selectorFactory.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 447,
+      "name": "./node_modules/react-redux/es/connect/selectorFactory.js",
+      "file": "styles.css"
+    }
+  ],
+  "./verifySubselectors": [
+    {
+      "id": 448,
+      "name": "./node_modules/react-redux/es/connect/verifySubselectors.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 448,
+      "name": "./node_modules/react-redux/es/connect/verifySubselectors.js",
+      "file": "styles.css"
+    }
+  ],
+  "../utils/warning": [
+    {
+      "id": 115,
+      "name": "./node_modules/react-redux/es/utils/warning.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 115,
+      "name": "./node_modules/react-redux/es/utils/warning.js",
+      "file": "styles.css"
+    }
+  ],
+  "../utils/verifyPlainObject": [
+    {
+      "id": 182,
+      "name": "./node_modules/react-redux/es/utils/verifyPlainObject.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 182,
+      "name": "./node_modules/react-redux/es/utils/verifyPlainObject.js",
+      "file": "styles.css"
+    }
+  ],
+  "lodash-es/isPlainObject": [
+    {
+      "id": 114,
+      "name": "./node_modules/lodash-es/isPlainObject.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 114,
+      "name": "./node_modules/lodash-es/isPlainObject.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_baseGetTag.js": [
+    {
+      "id": 425,
+      "name": "./node_modules/lodash-es/_baseGetTag.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 425,
+      "name": "./node_modules/lodash-es/_baseGetTag.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_getPrototype.js": [
+    {
+      "id": 430,
+      "name": "./node_modules/lodash-es/_getPrototype.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 430,
+      "name": "./node_modules/lodash-es/_getPrototype.js",
+      "file": "styles.css"
+    }
+  ],
+  "./isObjectLike.js": [
+    {
+      "id": 432,
+      "name": "./node_modules/lodash-es/isObjectLike.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 432,
+      "name": "./node_modules/lodash-es/isObjectLike.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_overArg.js": [
+    {
+      "id": 431,
+      "name": "./node_modules/lodash-es/_overArg.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 431,
+      "name": "./node_modules/lodash-es/_overArg.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_Symbol.js": [
+    {
+      "id": 175,
+      "name": "./node_modules/lodash-es/_Symbol.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 175,
+      "name": "./node_modules/lodash-es/_Symbol.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_getRawTag.js": [
+    {
+      "id": 428,
+      "name": "./node_modules/lodash-es/_getRawTag.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 428,
+      "name": "./node_modules/lodash-es/_getRawTag.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_objectToString.js": [
+    {
+      "id": 429,
+      "name": "./node_modules/lodash-es/_objectToString.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 429,
+      "name": "./node_modules/lodash-es/_objectToString.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_root.js": [
+    {
+      "id": 426,
+      "name": "./node_modules/lodash-es/_root.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 426,
+      "name": "./node_modules/lodash-es/_root.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_freeGlobal.js": [
+    {
+      "id": 427,
+      "name": "./node_modules/lodash-es/_freeGlobal.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 427,
+      "name": "./node_modules/lodash-es/_freeGlobal.js",
+      "file": "styles.css"
+    }
+  ],
+  "./../../webpack/buildin/global.js": [
+    {
+      "id": 59,
+      "name": "./node_modules/webpack/buildin/global.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 59,
+      "name": "./node_modules/webpack/buildin/global.js",
+      "file": "styles.css"
+    }
+  ],
+  "./wrapMapToProps": [
+    {
+      "id": 181,
+      "name": "./node_modules/react-redux/es/connect/wrapMapToProps.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 181,
+      "name": "./node_modules/react-redux/es/connect/wrapMapToProps.js",
+      "file": "styles.css"
+    }
+  ],
+  "../utils/Subscription": [
+    {
+      "id": 441,
+      "name": "./node_modules/react-redux/es/utils/Subscription.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 441,
+      "name": "./node_modules/react-redux/es/utils/Subscription.js",
+      "file": "styles.css"
+    }
+  ],
+  "../utils/PropTypes": [
+    {
+      "id": 179,
+      "name": "./node_modules/react-redux/es/utils/PropTypes.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 179,
+      "name": "./node_modules/react-redux/es/utils/PropTypes.js",
+      "file": "styles.css"
+    }
+  ],
+  "./createStore": [
+    {
+      "id": 174,
+      "name": "./node_modules/redux/es/createStore.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 174,
+      "name": "./node_modules/redux/es/createStore.js",
+      "file": "styles.css"
+    }
+  ],
+  "./combineReducers": [
+    {
+      "id": 437,
+      "name": "./node_modules/redux/es/combineReducers.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 437,
+      "name": "./node_modules/redux/es/combineReducers.js",
+      "file": "styles.css"
+    }
+  ],
+  "./bindActionCreators": [
+    {
+      "id": 438,
+      "name": "./node_modules/redux/es/bindActionCreators.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 438,
+      "name": "./node_modules/redux/es/bindActionCreators.js",
+      "file": "styles.css"
+    }
+  ],
+  "./applyMiddleware": [
+    {
+      "id": 439,
+      "name": "./node_modules/redux/es/applyMiddleware.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 439,
+      "name": "./node_modules/redux/es/applyMiddleware.js",
+      "file": "styles.css"
+    }
+  ],
+  "./compose": [
+    {
+      "id": 177,
+      "name": "./node_modules/redux/es/compose.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 177,
+      "name": "./node_modules/redux/es/compose.js",
+      "file": "styles.css"
+    }
+  ],
+  "./utils/warning": [
+    {
+      "id": 176,
+      "name": "./node_modules/redux/es/utils/warning.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 176,
+      "name": "./node_modules/redux/es/utils/warning.js",
+      "file": "styles.css"
+    }
+  ],
+  "symbol-observable": [
+    {
+      "id": 433,
+      "name": "./node_modules/symbol-observable/index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 433,
+      "name": "./node_modules/symbol-observable/index.js",
+      "file": "styles.css"
+    }
+  ],
+  "./lib/index": [
+    {
+      "id": 434,
+      "name": "./node_modules/symbol-observable/lib/index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 434,
+      "name": "./node_modules/symbol-observable/lib/index.js",
+      "file": "styles.css"
+    }
+  ],
+  "./../../webpack/buildin/module.js": [
+    {
+      "id": 435,
+      "name": "./node_modules/webpack/buildin/module.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 435,
+      "name": "./node_modules/webpack/buildin/module.js",
+      "file": "styles.css"
+    }
+  ],
+  "./ponyfill.js": [
+    {
+      "id": 436,
+      "name": "./node_modules/symbol-observable/lib/ponyfill.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 436,
+      "name": "./node_modules/symbol-observable/lib/ponyfill.js",
+      "file": "styles.css"
+    }
+  ],
+  "./BrowserRouter": [
+    {
+      "id": 406,
+      "name": "./node_modules/react-router-dom/es/BrowserRouter.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 406,
+      "name": "./node_modules/react-router-dom/es/BrowserRouter.js",
+      "file": "styles.css"
+    }
+  ],
+  "./HashRouter": [
+    {
+      "id": 409,
+      "name": "./node_modules/react-router-dom/es/HashRouter.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 409,
+      "name": "./node_modules/react-router-dom/es/HashRouter.js",
+      "file": "styles.css"
+    }
+  ],
+  "./Link": [
+    {
+      "id": 163,
+      "name": "./node_modules/react-router-dom/es/Link.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 163,
+      "name": "./node_modules/react-router-dom/es/Link.js",
+      "file": "styles.css"
+    }
+  ],
+  "./MemoryRouter": [
+    {
+      "id": 411,
+      "name": "./node_modules/react-router-dom/es/MemoryRouter.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 411,
+      "name": "./node_modules/react-router-dom/es/MemoryRouter.js",
+      "file": "styles.css"
+    }
+  ],
+  "./NavLink": [
+    {
+      "id": 413,
+      "name": "./node_modules/react-router-dom/es/NavLink.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 413,
+      "name": "./node_modules/react-router-dom/es/NavLink.js",
+      "file": "styles.css"
+    }
+  ],
+  "./Prompt": [
+    {
+      "id": 415,
+      "name": "./node_modules/react-router-dom/es/Prompt.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 415,
+      "name": "./node_modules/react-router-dom/es/Prompt.js",
+      "file": "styles.css"
+    }
+  ],
+  "./Redirect": [
+    {
+      "id": 416,
+      "name": "./node_modules/react-router-dom/es/Redirect.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 416,
+      "name": "./node_modules/react-router-dom/es/Redirect.js",
+      "file": "styles.css"
+    }
+  ],
+  "./Route": [
+    {
+      "id": 165,
+      "name": "./node_modules/react-router-dom/es/Route.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 165,
+      "name": "./node_modules/react-router-dom/es/Route.js",
+      "file": "styles.css"
+    }
+  ],
+  "./Router": [
+    {
+      "id": 110,
+      "name": "./node_modules/react-router-dom/es/Router.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 110,
+      "name": "./node_modules/react-router-dom/es/Router.js",
+      "file": "styles.css"
+    }
+  ],
+  "./StaticRouter": [
+    {
+      "id": 421,
+      "name": "./node_modules/react-router-dom/es/StaticRouter.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 421,
+      "name": "./node_modules/react-router-dom/es/StaticRouter.js",
+      "file": "styles.css"
+    }
+  ],
+  "./Switch": [
+    {
+      "id": 422,
+      "name": "./node_modules/react-router-dom/es/Switch.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 422,
+      "name": "./node_modules/react-router-dom/es/Switch.js",
+      "file": "styles.css"
+    }
+  ],
+  "./matchPath": [
+    {
+      "id": 423,
+      "name": "./node_modules/react-router-dom/es/matchPath.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 423,
+      "name": "./node_modules/react-router-dom/es/matchPath.js",
+      "file": "styles.css"
+    }
+  ],
+  "./withRouter": [
+    {
+      "id": 424,
+      "name": "./node_modules/react-router-dom/es/withRouter.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 424,
+      "name": "./node_modules/react-router-dom/es/withRouter.js",
+      "file": "styles.css"
+    }
+  ],
+  "history/createHashHistory": [
+    {
+      "id": 410,
+      "name": "./node_modules/history/createHashHistory.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 410,
+      "name": "./node_modules/history/createHashHistory.js",
+      "file": "styles.css"
+    }
+  ],
+  "./cjs/react-dom.production.min.js": [
+    {
+      "id": 398,
+      "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 398,
+      "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+      "file": "styles.css"
+    }
+  ],
+  "./cjs/react-dom.development.js": [
+    {
+      "id": 401,
+      "name": "./node_modules/react-dom/cjs/react-dom.development.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 401,
+      "name": "./node_modules/react-dom/cjs/react-dom.development.js",
+      "file": "styles.css"
+    }
+  ],
+  "fbjs/lib/ExecutionEnvironment": [
+    {
+      "id": 152,
+      "name": "./node_modules/fbjs/lib/ExecutionEnvironment.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 152,
+      "name": "./node_modules/fbjs/lib/ExecutionEnvironment.js",
+      "file": "styles.css"
+    }
+  ],
+  "fbjs/lib/EventListener": [
+    {
+      "id": 153,
+      "name": "./node_modules/fbjs/lib/EventListener.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 153,
+      "name": "./node_modules/fbjs/lib/EventListener.js",
+      "file": "styles.css"
+    }
+  ],
+  "fbjs/lib/getActiveElement": [
+    {
+      "id": 154,
+      "name": "./node_modules/fbjs/lib/getActiveElement.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 154,
+      "name": "./node_modules/fbjs/lib/getActiveElement.js",
+      "file": "styles.css"
+    }
+  ],
+  "fbjs/lib/shallowEqual": [
+    {
+      "id": 155,
+      "name": "./node_modules/fbjs/lib/shallowEqual.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 155,
+      "name": "./node_modules/fbjs/lib/shallowEqual.js",
+      "file": "styles.css"
+    }
+  ],
+  "fbjs/lib/containsNode": [
+    {
+      "id": 156,
+      "name": "./node_modules/fbjs/lib/containsNode.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 156,
+      "name": "./node_modules/fbjs/lib/containsNode.js",
+      "file": "styles.css"
+    }
+  ],
+  "fbjs/lib/focusNode": [
+    {
+      "id": 157,
+      "name": "./node_modules/fbjs/lib/focusNode.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 157,
+      "name": "./node_modules/fbjs/lib/focusNode.js",
+      "file": "styles.css"
+    }
+  ],
+  "fbjs/lib/emptyObject": [
+    {
+      "id": 74,
+      "name": "./node_modules/fbjs/lib/emptyObject.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 74,
+      "name": "./node_modules/fbjs/lib/emptyObject.js",
+      "file": "styles.css"
+    }
+  ],
+  "fbjs/lib/hyphenateStyleName": [
+    {
+      "id": 402,
+      "name": "./node_modules/fbjs/lib/hyphenateStyleName.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 402,
+      "name": "./node_modules/fbjs/lib/hyphenateStyleName.js",
+      "file": "styles.css"
+    }
+  ],
+  "fbjs/lib/camelizeStyleName": [
+    {
+      "id": 404,
+      "name": "./node_modules/fbjs/lib/camelizeStyleName.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 404,
+      "name": "./node_modules/fbjs/lib/camelizeStyleName.js",
+      "file": "styles.css"
+    }
+  ],
+  "./camelize": [
+    {
+      "id": 405,
+      "name": "./node_modules/fbjs/lib/camelize.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 405,
+      "name": "./node_modules/fbjs/lib/camelize.js",
+      "file": "styles.css"
+    }
+  ],
+  "./hyphenate": [
+    {
+      "id": 403,
+      "name": "./node_modules/fbjs/lib/hyphenate.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 403,
+      "name": "./node_modules/fbjs/lib/hyphenate.js",
+      "file": "styles.css"
+    }
+  ],
+  "./isTextNode": [
+    {
+      "id": 399,
+      "name": "./node_modules/fbjs/lib/isTextNode.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 399,
+      "name": "./node_modules/fbjs/lib/isTextNode.js",
+      "file": "styles.css"
+    }
+  ],
+  "./isNode": [
+    {
+      "id": 400,
+      "name": "./node_modules/fbjs/lib/isNode.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 400,
+      "name": "./node_modules/fbjs/lib/isNode.js",
+      "file": "styles.css"
+    }
+  ],
+  "./cjs/react.production.min.js": [
+    {
+      "id": 395,
+      "name": "./node_modules/react/cjs/react.production.min.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 395,
+      "name": "./node_modules/react/cjs/react.production.min.js",
+      "file": "styles.css"
+    }
+  ],
+  "./cjs/react.development.js": [
+    {
+      "id": 396,
+      "name": "./node_modules/react/cjs/react.development.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 396,
+      "name": "./node_modules/react/cjs/react.development.js",
+      "file": "styles.css"
+    }
+  ],
+  "core-js/shim": [
+    {
+      "id": 194,
+      "name": "./node_modules/core-js/shim.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 194,
+      "name": "./node_modules/core-js/shim.js",
+      "file": "styles.css"
+    }
+  ],
+  "regenerator-runtime/runtime": [
+    {
+      "id": 391,
+      "name": "./node_modules/regenerator-runtime/runtime.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 391,
+      "name": "./node_modules/regenerator-runtime/runtime.js",
+      "file": "styles.css"
+    }
+  ],
+  "core-js/fn/regexp/escape": [
+    {
+      "id": 392,
+      "name": "./node_modules/core-js/fn/regexp/escape.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 392,
+      "name": "./node_modules/core-js/fn/regexp/escape.js",
+      "file": "styles.css"
+    }
+  ],
+  "../../modules/core.regexp.escape": [
+    {
+      "id": 393,
+      "name": "./node_modules/core-js/modules/core.regexp.escape.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 393,
+      "name": "./node_modules/core-js/modules/core.regexp.escape.js",
+      "file": "styles.css"
+    }
+  ],
+  "../../modules/_core": [
+    {
+      "id": 26,
+      "name": "./node_modules/core-js/modules/_core.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 26,
+      "name": "./node_modules/core-js/modules/_core.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_export": [
+    {
+      "id": 0,
+      "name": "./node_modules/core-js/modules/_export.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 0,
+      "name": "./node_modules/core-js/modules/_export.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_replacer": [
+    {
+      "id": 394,
+      "name": "./node_modules/core-js/modules/_replacer.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 394,
+      "name": "./node_modules/core-js/modules/_replacer.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_global": [
+    {
+      "id": 2,
+      "name": "./node_modules/core-js/modules/_global.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 2,
+      "name": "./node_modules/core-js/modules/_global.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_hide": [
+    {
+      "id": 17,
+      "name": "./node_modules/core-js/modules/_hide.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 17,
+      "name": "./node_modules/core-js/modules/_hide.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_redefine": [
+    {
+      "id": 18,
+      "name": "./node_modules/core-js/modules/_redefine.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 18,
+      "name": "./node_modules/core-js/modules/_redefine.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_ctx": [
+    {
+      "id": 23,
+      "name": "./node_modules/core-js/modules/_ctx.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 23,
+      "name": "./node_modules/core-js/modules/_ctx.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_a-function": [
+    {
+      "id": 14,
+      "name": "./node_modules/core-js/modules/_a-function.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 14,
+      "name": "./node_modules/core-js/modules/_a-function.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_has": [
+    {
+      "id": 16,
+      "name": "./node_modules/core-js/modules/_has.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 16,
+      "name": "./node_modules/core-js/modules/_has.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_uid": [
+    {
+      "id": 38,
+      "name": "./node_modules/core-js/modules/_uid.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 38,
+      "name": "./node_modules/core-js/modules/_uid.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_object-dp": [
+    {
+      "id": 8,
+      "name": "./node_modules/core-js/modules/_object-dp.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 8,
+      "name": "./node_modules/core-js/modules/_object-dp.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_property-desc": [
+    {
+      "id": 37,
+      "name": "./node_modules/core-js/modules/_property-desc.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 37,
+      "name": "./node_modules/core-js/modules/_property-desc.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_descriptors": [
+    {
+      "id": 7,
+      "name": "./node_modules/core-js/modules/_descriptors.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 7,
+      "name": "./node_modules/core-js/modules/_descriptors.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_fails": [
+    {
+      "id": 3,
+      "name": "./node_modules/core-js/modules/_fails.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 3,
+      "name": "./node_modules/core-js/modules/_fails.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_an-object": [
+    {
+      "id": 1,
+      "name": "./node_modules/core-js/modules/_an-object.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 1,
+      "name": "./node_modules/core-js/modules/_an-object.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_ie8-dom-define": [
+    {
+      "id": 118,
+      "name": "./node_modules/core-js/modules/_ie8-dom-define.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 118,
+      "name": "./node_modules/core-js/modules/_ie8-dom-define.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_to-primitive": [
+    {
+      "id": 27,
+      "name": "./node_modules/core-js/modules/_to-primitive.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 27,
+      "name": "./node_modules/core-js/modules/_to-primitive.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_is-object": [
+    {
+      "id": 4,
+      "name": "./node_modules/core-js/modules/_is-object.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 4,
+      "name": "./node_modules/core-js/modules/_is-object.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_dom-create": [
+    {
+      "id": 79,
+      "name": "./node_modules/core-js/modules/_dom-create.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 79,
+      "name": "./node_modules/core-js/modules/_dom-create.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.symbol": [
+    {
+      "id": 195,
+      "name": "./node_modules/core-js/modules/es6.symbol.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 195,
+      "name": "./node_modules/core-js/modules/es6.symbol.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.object.create": [
+    {
+      "id": 197,
+      "name": "./node_modules/core-js/modules/es6.object.create.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 197,
+      "name": "./node_modules/core-js/modules/es6.object.create.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.object.define-property": [
+    {
+      "id": 198,
+      "name": "./node_modules/core-js/modules/es6.object.define-property.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 198,
+      "name": "./node_modules/core-js/modules/es6.object.define-property.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.object.define-properties": [
+    {
+      "id": 199,
+      "name": "./node_modules/core-js/modules/es6.object.define-properties.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 199,
+      "name": "./node_modules/core-js/modules/es6.object.define-properties.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.object.get-own-property-descriptor": [
+    {
+      "id": 200,
+      "name": "./node_modules/core-js/modules/es6.object.get-own-property-descriptor.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 200,
+      "name": "./node_modules/core-js/modules/es6.object.get-own-property-descriptor.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.object.get-prototype-of": [
+    {
+      "id": 201,
+      "name": "./node_modules/core-js/modules/es6.object.get-prototype-of.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 201,
+      "name": "./node_modules/core-js/modules/es6.object.get-prototype-of.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.object.keys": [
+    {
+      "id": 202,
+      "name": "./node_modules/core-js/modules/es6.object.keys.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 202,
+      "name": "./node_modules/core-js/modules/es6.object.keys.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.object.get-own-property-names": [
+    {
+      "id": 203,
+      "name": "./node_modules/core-js/modules/es6.object.get-own-property-names.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 203,
+      "name": "./node_modules/core-js/modules/es6.object.get-own-property-names.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.object.freeze": [
+    {
+      "id": 204,
+      "name": "./node_modules/core-js/modules/es6.object.freeze.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 204,
+      "name": "./node_modules/core-js/modules/es6.object.freeze.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.object.seal": [
+    {
+      "id": 205,
+      "name": "./node_modules/core-js/modules/es6.object.seal.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 205,
+      "name": "./node_modules/core-js/modules/es6.object.seal.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.object.prevent-extensions": [
+    {
+      "id": 206,
+      "name": "./node_modules/core-js/modules/es6.object.prevent-extensions.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 206,
+      "name": "./node_modules/core-js/modules/es6.object.prevent-extensions.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.object.is-frozen": [
+    {
+      "id": 207,
+      "name": "./node_modules/core-js/modules/es6.object.is-frozen.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 207,
+      "name": "./node_modules/core-js/modules/es6.object.is-frozen.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.object.is-sealed": [
+    {
+      "id": 208,
+      "name": "./node_modules/core-js/modules/es6.object.is-sealed.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 208,
+      "name": "./node_modules/core-js/modules/es6.object.is-sealed.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.object.is-extensible": [
+    {
+      "id": 209,
+      "name": "./node_modules/core-js/modules/es6.object.is-extensible.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 209,
+      "name": "./node_modules/core-js/modules/es6.object.is-extensible.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.object.assign": [
+    {
+      "id": 210,
+      "name": "./node_modules/core-js/modules/es6.object.assign.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 210,
+      "name": "./node_modules/core-js/modules/es6.object.assign.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.object.is": [
+    {
+      "id": 211,
+      "name": "./node_modules/core-js/modules/es6.object.is.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 211,
+      "name": "./node_modules/core-js/modules/es6.object.is.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.object.set-prototype-of": [
+    {
+      "id": 213,
+      "name": "./node_modules/core-js/modules/es6.object.set-prototype-of.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 213,
+      "name": "./node_modules/core-js/modules/es6.object.set-prototype-of.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.object.to-string": [
+    {
+      "id": 214,
+      "name": "./node_modules/core-js/modules/es6.object.to-string.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 214,
+      "name": "./node_modules/core-js/modules/es6.object.to-string.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.function.bind": [
+    {
+      "id": 215,
+      "name": "./node_modules/core-js/modules/es6.function.bind.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 215,
+      "name": "./node_modules/core-js/modules/es6.function.bind.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.function.name": [
+    {
+      "id": 216,
+      "name": "./node_modules/core-js/modules/es6.function.name.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 216,
+      "name": "./node_modules/core-js/modules/es6.function.name.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.function.has-instance": [
+    {
+      "id": 217,
+      "name": "./node_modules/core-js/modules/es6.function.has-instance.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 217,
+      "name": "./node_modules/core-js/modules/es6.function.has-instance.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.parse-int": [
+    {
+      "id": 218,
+      "name": "./node_modules/core-js/modules/es6.parse-int.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 218,
+      "name": "./node_modules/core-js/modules/es6.parse-int.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.parse-float": [
+    {
+      "id": 219,
+      "name": "./node_modules/core-js/modules/es6.parse-float.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 219,
+      "name": "./node_modules/core-js/modules/es6.parse-float.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.number.constructor": [
+    {
+      "id": 220,
+      "name": "./node_modules/core-js/modules/es6.number.constructor.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 220,
+      "name": "./node_modules/core-js/modules/es6.number.constructor.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.number.to-fixed": [
+    {
+      "id": 221,
+      "name": "./node_modules/core-js/modules/es6.number.to-fixed.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 221,
+      "name": "./node_modules/core-js/modules/es6.number.to-fixed.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.number.to-precision": [
+    {
+      "id": 222,
+      "name": "./node_modules/core-js/modules/es6.number.to-precision.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 222,
+      "name": "./node_modules/core-js/modules/es6.number.to-precision.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.number.epsilon": [
+    {
+      "id": 223,
+      "name": "./node_modules/core-js/modules/es6.number.epsilon.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 223,
+      "name": "./node_modules/core-js/modules/es6.number.epsilon.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.number.is-finite": [
+    {
+      "id": 224,
+      "name": "./node_modules/core-js/modules/es6.number.is-finite.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 224,
+      "name": "./node_modules/core-js/modules/es6.number.is-finite.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.number.is-integer": [
+    {
+      "id": 225,
+      "name": "./node_modules/core-js/modules/es6.number.is-integer.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 225,
+      "name": "./node_modules/core-js/modules/es6.number.is-integer.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.number.is-nan": [
+    {
+      "id": 226,
+      "name": "./node_modules/core-js/modules/es6.number.is-nan.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 226,
+      "name": "./node_modules/core-js/modules/es6.number.is-nan.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.number.is-safe-integer": [
+    {
+      "id": 227,
+      "name": "./node_modules/core-js/modules/es6.number.is-safe-integer.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 227,
+      "name": "./node_modules/core-js/modules/es6.number.is-safe-integer.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.number.max-safe-integer": [
+    {
+      "id": 228,
+      "name": "./node_modules/core-js/modules/es6.number.max-safe-integer.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 228,
+      "name": "./node_modules/core-js/modules/es6.number.max-safe-integer.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.number.min-safe-integer": [
+    {
+      "id": 229,
+      "name": "./node_modules/core-js/modules/es6.number.min-safe-integer.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 229,
+      "name": "./node_modules/core-js/modules/es6.number.min-safe-integer.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.number.parse-float": [
+    {
+      "id": 230,
+      "name": "./node_modules/core-js/modules/es6.number.parse-float.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 230,
+      "name": "./node_modules/core-js/modules/es6.number.parse-float.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.number.parse-int": [
+    {
+      "id": 231,
+      "name": "./node_modules/core-js/modules/es6.number.parse-int.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 231,
+      "name": "./node_modules/core-js/modules/es6.number.parse-int.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.math.acosh": [
+    {
+      "id": 232,
+      "name": "./node_modules/core-js/modules/es6.math.acosh.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 232,
+      "name": "./node_modules/core-js/modules/es6.math.acosh.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.math.asinh": [
+    {
+      "id": 233,
+      "name": "./node_modules/core-js/modules/es6.math.asinh.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 233,
+      "name": "./node_modules/core-js/modules/es6.math.asinh.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.math.atanh": [
+    {
+      "id": 234,
+      "name": "./node_modules/core-js/modules/es6.math.atanh.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 234,
+      "name": "./node_modules/core-js/modules/es6.math.atanh.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.math.cbrt": [
+    {
+      "id": 235,
+      "name": "./node_modules/core-js/modules/es6.math.cbrt.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 235,
+      "name": "./node_modules/core-js/modules/es6.math.cbrt.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.math.clz32": [
+    {
+      "id": 236,
+      "name": "./node_modules/core-js/modules/es6.math.clz32.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 236,
+      "name": "./node_modules/core-js/modules/es6.math.clz32.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.math.cosh": [
+    {
+      "id": 237,
+      "name": "./node_modules/core-js/modules/es6.math.cosh.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 237,
+      "name": "./node_modules/core-js/modules/es6.math.cosh.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.math.expm1": [
+    {
+      "id": 238,
+      "name": "./node_modules/core-js/modules/es6.math.expm1.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 238,
+      "name": "./node_modules/core-js/modules/es6.math.expm1.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.math.fround": [
+    {
+      "id": 239,
+      "name": "./node_modules/core-js/modules/es6.math.fround.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 239,
+      "name": "./node_modules/core-js/modules/es6.math.fround.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.math.hypot": [
+    {
+      "id": 240,
+      "name": "./node_modules/core-js/modules/es6.math.hypot.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 240,
+      "name": "./node_modules/core-js/modules/es6.math.hypot.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.math.imul": [
+    {
+      "id": 241,
+      "name": "./node_modules/core-js/modules/es6.math.imul.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 241,
+      "name": "./node_modules/core-js/modules/es6.math.imul.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.math.log10": [
+    {
+      "id": 242,
+      "name": "./node_modules/core-js/modules/es6.math.log10.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 242,
+      "name": "./node_modules/core-js/modules/es6.math.log10.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.math.log1p": [
+    {
+      "id": 243,
+      "name": "./node_modules/core-js/modules/es6.math.log1p.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 243,
+      "name": "./node_modules/core-js/modules/es6.math.log1p.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.math.log2": [
+    {
+      "id": 244,
+      "name": "./node_modules/core-js/modules/es6.math.log2.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 244,
+      "name": "./node_modules/core-js/modules/es6.math.log2.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.math.sign": [
+    {
+      "id": 245,
+      "name": "./node_modules/core-js/modules/es6.math.sign.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 245,
+      "name": "./node_modules/core-js/modules/es6.math.sign.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.math.sinh": [
+    {
+      "id": 246,
+      "name": "./node_modules/core-js/modules/es6.math.sinh.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 246,
+      "name": "./node_modules/core-js/modules/es6.math.sinh.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.math.tanh": [
+    {
+      "id": 247,
+      "name": "./node_modules/core-js/modules/es6.math.tanh.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 247,
+      "name": "./node_modules/core-js/modules/es6.math.tanh.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.math.trunc": [
+    {
+      "id": 248,
+      "name": "./node_modules/core-js/modules/es6.math.trunc.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 248,
+      "name": "./node_modules/core-js/modules/es6.math.trunc.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.string.from-code-point": [
+    {
+      "id": 249,
+      "name": "./node_modules/core-js/modules/es6.string.from-code-point.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 249,
+      "name": "./node_modules/core-js/modules/es6.string.from-code-point.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.string.raw": [
+    {
+      "id": 250,
+      "name": "./node_modules/core-js/modules/es6.string.raw.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 250,
+      "name": "./node_modules/core-js/modules/es6.string.raw.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.string.trim": [
+    {
+      "id": 251,
+      "name": "./node_modules/core-js/modules/es6.string.trim.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 251,
+      "name": "./node_modules/core-js/modules/es6.string.trim.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.string.iterator": [
+    {
+      "id": 252,
+      "name": "./node_modules/core-js/modules/es6.string.iterator.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 252,
+      "name": "./node_modules/core-js/modules/es6.string.iterator.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.string.code-point-at": [
+    {
+      "id": 253,
+      "name": "./node_modules/core-js/modules/es6.string.code-point-at.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 253,
+      "name": "./node_modules/core-js/modules/es6.string.code-point-at.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.string.ends-with": [
+    {
+      "id": 254,
+      "name": "./node_modules/core-js/modules/es6.string.ends-with.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 254,
+      "name": "./node_modules/core-js/modules/es6.string.ends-with.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.string.includes": [
+    {
+      "id": 255,
+      "name": "./node_modules/core-js/modules/es6.string.includes.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 255,
+      "name": "./node_modules/core-js/modules/es6.string.includes.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.string.repeat": [
+    {
+      "id": 256,
+      "name": "./node_modules/core-js/modules/es6.string.repeat.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 256,
+      "name": "./node_modules/core-js/modules/es6.string.repeat.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.string.starts-with": [
+    {
+      "id": 257,
+      "name": "./node_modules/core-js/modules/es6.string.starts-with.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 257,
+      "name": "./node_modules/core-js/modules/es6.string.starts-with.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.string.anchor": [
+    {
+      "id": 258,
+      "name": "./node_modules/core-js/modules/es6.string.anchor.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 258,
+      "name": "./node_modules/core-js/modules/es6.string.anchor.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.string.big": [
+    {
+      "id": 259,
+      "name": "./node_modules/core-js/modules/es6.string.big.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 259,
+      "name": "./node_modules/core-js/modules/es6.string.big.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.string.blink": [
+    {
+      "id": 260,
+      "name": "./node_modules/core-js/modules/es6.string.blink.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 260,
+      "name": "./node_modules/core-js/modules/es6.string.blink.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.string.bold": [
+    {
+      "id": 261,
+      "name": "./node_modules/core-js/modules/es6.string.bold.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 261,
+      "name": "./node_modules/core-js/modules/es6.string.bold.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.string.fixed": [
+    {
+      "id": 262,
+      "name": "./node_modules/core-js/modules/es6.string.fixed.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 262,
+      "name": "./node_modules/core-js/modules/es6.string.fixed.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.string.fontcolor": [
+    {
+      "id": 263,
+      "name": "./node_modules/core-js/modules/es6.string.fontcolor.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 263,
+      "name": "./node_modules/core-js/modules/es6.string.fontcolor.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.string.fontsize": [
+    {
+      "id": 264,
+      "name": "./node_modules/core-js/modules/es6.string.fontsize.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 264,
+      "name": "./node_modules/core-js/modules/es6.string.fontsize.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.string.italics": [
+    {
+      "id": 265,
+      "name": "./node_modules/core-js/modules/es6.string.italics.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 265,
+      "name": "./node_modules/core-js/modules/es6.string.italics.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.string.link": [
+    {
+      "id": 266,
+      "name": "./node_modules/core-js/modules/es6.string.link.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 266,
+      "name": "./node_modules/core-js/modules/es6.string.link.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.string.small": [
+    {
+      "id": 267,
+      "name": "./node_modules/core-js/modules/es6.string.small.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 267,
+      "name": "./node_modules/core-js/modules/es6.string.small.js",
+      "file": "styles.css"
+    }
+  ],
+  "./styles/global.scss": [
+    {
+      "id": 192,
+      "name": "./src/client/styles/global.scss",
+      "file": "bundle.js"
+    },
+    {
+      "id": 192,
+      "name": "./src/client/styles/global.scss",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.string.sub": [
+    {
+      "id": 269,
+      "name": "./node_modules/core-js/modules/es6.string.sub.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 269,
+      "name": "./node_modules/core-js/modules/es6.string.sub.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.string.sup": [
+    {
+      "id": 270,
+      "name": "./node_modules/core-js/modules/es6.string.sup.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 270,
+      "name": "./node_modules/core-js/modules/es6.string.sup.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.date.now": [
+    {
+      "id": 271,
+      "name": "./node_modules/core-js/modules/es6.date.now.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 271,
+      "name": "./node_modules/core-js/modules/es6.date.now.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.date.to-json": [
+    {
+      "id": 272,
+      "name": "./node_modules/core-js/modules/es6.date.to-json.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 272,
+      "name": "./node_modules/core-js/modules/es6.date.to-json.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.date.to-iso-string": [
+    {
+      "id": 273,
+      "name": "./node_modules/core-js/modules/es6.date.to-iso-string.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 273,
+      "name": "./node_modules/core-js/modules/es6.date.to-iso-string.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.date.to-string": [
+    {
+      "id": 275,
+      "name": "./node_modules/core-js/modules/es6.date.to-string.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 275,
+      "name": "./node_modules/core-js/modules/es6.date.to-string.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.date.to-primitive": [
+    {
+      "id": 276,
+      "name": "./node_modules/core-js/modules/es6.date.to-primitive.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 276,
+      "name": "./node_modules/core-js/modules/es6.date.to-primitive.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.array.is-array": [
+    {
+      "id": 278,
+      "name": "./node_modules/core-js/modules/es6.array.is-array.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 278,
+      "name": "./node_modules/core-js/modules/es6.array.is-array.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.array.from": [
+    {
+      "id": 279,
+      "name": "./node_modules/core-js/modules/es6.array.from.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 279,
+      "name": "./node_modules/core-js/modules/es6.array.from.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.array.of": [
+    {
+      "id": 280,
+      "name": "./node_modules/core-js/modules/es6.array.of.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 280,
+      "name": "./node_modules/core-js/modules/es6.array.of.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.array.join": [
+    {
+      "id": 281,
+      "name": "./node_modules/core-js/modules/es6.array.join.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 281,
+      "name": "./node_modules/core-js/modules/es6.array.join.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.array.slice": [
+    {
+      "id": 282,
+      "name": "./node_modules/core-js/modules/es6.array.slice.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 282,
+      "name": "./node_modules/core-js/modules/es6.array.slice.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.array.sort": [
+    {
+      "id": 283,
+      "name": "./node_modules/core-js/modules/es6.array.sort.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 283,
+      "name": "./node_modules/core-js/modules/es6.array.sort.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.array.for-each": [
+    {
+      "id": 284,
+      "name": "./node_modules/core-js/modules/es6.array.for-each.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 284,
+      "name": "./node_modules/core-js/modules/es6.array.for-each.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.array.map": [
+    {
+      "id": 286,
+      "name": "./node_modules/core-js/modules/es6.array.map.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 286,
+      "name": "./node_modules/core-js/modules/es6.array.map.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.array.filter": [
+    {
+      "id": 287,
+      "name": "./node_modules/core-js/modules/es6.array.filter.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 287,
+      "name": "./node_modules/core-js/modules/es6.array.filter.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.array.some": [
+    {
+      "id": 288,
+      "name": "./node_modules/core-js/modules/es6.array.some.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 288,
+      "name": "./node_modules/core-js/modules/es6.array.some.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.array.every": [
+    {
+      "id": 289,
+      "name": "./node_modules/core-js/modules/es6.array.every.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 289,
+      "name": "./node_modules/core-js/modules/es6.array.every.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.array.reduce": [
+    {
+      "id": 290,
+      "name": "./node_modules/core-js/modules/es6.array.reduce.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 290,
+      "name": "./node_modules/core-js/modules/es6.array.reduce.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.array.reduce-right": [
+    {
+      "id": 291,
+      "name": "./node_modules/core-js/modules/es6.array.reduce-right.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 291,
+      "name": "./node_modules/core-js/modules/es6.array.reduce-right.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.array.index-of": [
+    {
+      "id": 292,
+      "name": "./node_modules/core-js/modules/es6.array.index-of.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 292,
+      "name": "./node_modules/core-js/modules/es6.array.index-of.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.array.last-index-of": [
+    {
+      "id": 293,
+      "name": "./node_modules/core-js/modules/es6.array.last-index-of.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 293,
+      "name": "./node_modules/core-js/modules/es6.array.last-index-of.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.array.copy-within": [
+    {
+      "id": 294,
+      "name": "./node_modules/core-js/modules/es6.array.copy-within.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 294,
+      "name": "./node_modules/core-js/modules/es6.array.copy-within.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.array.fill": [
+    {
+      "id": 295,
+      "name": "./node_modules/core-js/modules/es6.array.fill.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 295,
+      "name": "./node_modules/core-js/modules/es6.array.fill.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.array.find": [
+    {
+      "id": 296,
+      "name": "./node_modules/core-js/modules/es6.array.find.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 296,
+      "name": "./node_modules/core-js/modules/es6.array.find.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.array.find-index": [
+    {
+      "id": 297,
+      "name": "./node_modules/core-js/modules/es6.array.find-index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 297,
+      "name": "./node_modules/core-js/modules/es6.array.find-index.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.array.species": [
+    {
+      "id": 298,
+      "name": "./node_modules/core-js/modules/es6.array.species.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 298,
+      "name": "./node_modules/core-js/modules/es6.array.species.js",
+      "file": "styles.css"
+    }
+  ],
+  "./es6.array.iterator": [
+    {
+      "id": 100,
+      "name": "./node_modules/core-js/modules/es6.array.iterator.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 100,
+      "name": "./node_modules/core-js/modules/es6.array.iterator.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.regexp.constructor": [
+    {
+      "id": 299,
+      "name": "./node_modules/core-js/modules/es6.regexp.constructor.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 299,
+      "name": "./node_modules/core-js/modules/es6.regexp.constructor.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.regexp.to-string": [
+    {
+      "id": 300,
+      "name": "./node_modules/core-js/modules/es6.regexp.to-string.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 300,
+      "name": "./node_modules/core-js/modules/es6.regexp.to-string.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.regexp.flags": [
+    {
+      "id": 136,
+      "name": "./node_modules/core-js/modules/es6.regexp.flags.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 136,
+      "name": "./node_modules/core-js/modules/es6.regexp.flags.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.regexp.match": [
+    {
+      "id": 301,
+      "name": "./node_modules/core-js/modules/es6.regexp.match.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 301,
+      "name": "./node_modules/core-js/modules/es6.regexp.match.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.regexp.replace": [
+    {
+      "id": 302,
+      "name": "./node_modules/core-js/modules/es6.regexp.replace.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 302,
+      "name": "./node_modules/core-js/modules/es6.regexp.replace.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.regexp.search": [
+    {
+      "id": 303,
+      "name": "./node_modules/core-js/modules/es6.regexp.search.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 303,
+      "name": "./node_modules/core-js/modules/es6.regexp.search.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.regexp.split": [
+    {
+      "id": 304,
+      "name": "./node_modules/core-js/modules/es6.regexp.split.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 304,
+      "name": "./node_modules/core-js/modules/es6.regexp.split.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.promise": [
+    {
+      "id": 305,
+      "name": "./node_modules/core-js/modules/es6.promise.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 305,
+      "name": "./node_modules/core-js/modules/es6.promise.js",
+      "file": "styles.css"
+    }
+  ],
+  "./es6.map": [
+    {
+      "id": 139,
+      "name": "./node_modules/core-js/modules/es6.map.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 139,
+      "name": "./node_modules/core-js/modules/es6.map.js",
+      "file": "styles.css"
+    }
+  ],
+  "./es6.set": [
+    {
+      "id": 141,
+      "name": "./node_modules/core-js/modules/es6.set.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 141,
+      "name": "./node_modules/core-js/modules/es6.set.js",
+      "file": "styles.css"
+    }
+  ],
+  "./es6.weak-map": [
+    {
+      "id": 142,
+      "name": "./node_modules/core-js/modules/es6.weak-map.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 142,
+      "name": "./node_modules/core-js/modules/es6.weak-map.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.weak-set": [
+    {
+      "id": 306,
+      "name": "./node_modules/core-js/modules/es6.weak-set.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 306,
+      "name": "./node_modules/core-js/modules/es6.weak-set.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.typed.array-buffer": [
+    {
+      "id": 307,
+      "name": "./node_modules/core-js/modules/es6.typed.array-buffer.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 307,
+      "name": "./node_modules/core-js/modules/es6.typed.array-buffer.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.typed.data-view": [
+    {
+      "id": 308,
+      "name": "./node_modules/core-js/modules/es6.typed.data-view.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 308,
+      "name": "./node_modules/core-js/modules/es6.typed.data-view.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.typed.int8-array": [
+    {
+      "id": 309,
+      "name": "./node_modules/core-js/modules/es6.typed.int8-array.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 309,
+      "name": "./node_modules/core-js/modules/es6.typed.int8-array.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.typed.uint8-array": [
+    {
+      "id": 310,
+      "name": "./node_modules/core-js/modules/es6.typed.uint8-array.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 310,
+      "name": "./node_modules/core-js/modules/es6.typed.uint8-array.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.typed.uint8-clamped-array": [
+    {
+      "id": 311,
+      "name": "./node_modules/core-js/modules/es6.typed.uint8-clamped-array.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 311,
+      "name": "./node_modules/core-js/modules/es6.typed.uint8-clamped-array.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.typed.int16-array": [
+    {
+      "id": 312,
+      "name": "./node_modules/core-js/modules/es6.typed.int16-array.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 312,
+      "name": "./node_modules/core-js/modules/es6.typed.int16-array.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.typed.uint16-array": [
+    {
+      "id": 313,
+      "name": "./node_modules/core-js/modules/es6.typed.uint16-array.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 313,
+      "name": "./node_modules/core-js/modules/es6.typed.uint16-array.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.typed.int32-array": [
+    {
+      "id": 314,
+      "name": "./node_modules/core-js/modules/es6.typed.int32-array.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 314,
+      "name": "./node_modules/core-js/modules/es6.typed.int32-array.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.typed.uint32-array": [
+    {
+      "id": 315,
+      "name": "./node_modules/core-js/modules/es6.typed.uint32-array.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 315,
+      "name": "./node_modules/core-js/modules/es6.typed.uint32-array.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.typed.float32-array": [
+    {
+      "id": 316,
+      "name": "./node_modules/core-js/modules/es6.typed.float32-array.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 316,
+      "name": "./node_modules/core-js/modules/es6.typed.float32-array.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.typed.float64-array": [
+    {
+      "id": 317,
+      "name": "./node_modules/core-js/modules/es6.typed.float64-array.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 317,
+      "name": "./node_modules/core-js/modules/es6.typed.float64-array.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.reflect.apply": [
+    {
+      "id": 318,
+      "name": "./node_modules/core-js/modules/es6.reflect.apply.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 318,
+      "name": "./node_modules/core-js/modules/es6.reflect.apply.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.reflect.construct": [
+    {
+      "id": 319,
+      "name": "./node_modules/core-js/modules/es6.reflect.construct.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 319,
+      "name": "./node_modules/core-js/modules/es6.reflect.construct.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.reflect.define-property": [
+    {
+      "id": 320,
+      "name": "./node_modules/core-js/modules/es6.reflect.define-property.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 320,
+      "name": "./node_modules/core-js/modules/es6.reflect.define-property.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.reflect.delete-property": [
+    {
+      "id": 321,
+      "name": "./node_modules/core-js/modules/es6.reflect.delete-property.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 321,
+      "name": "./node_modules/core-js/modules/es6.reflect.delete-property.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.reflect.enumerate": [
+    {
+      "id": 322,
+      "name": "./node_modules/core-js/modules/es6.reflect.enumerate.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 322,
+      "name": "./node_modules/core-js/modules/es6.reflect.enumerate.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.reflect.get": [
+    {
+      "id": 323,
+      "name": "./node_modules/core-js/modules/es6.reflect.get.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 323,
+      "name": "./node_modules/core-js/modules/es6.reflect.get.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.reflect.get-own-property-descriptor": [
+    {
+      "id": 324,
+      "name": "./node_modules/core-js/modules/es6.reflect.get-own-property-descriptor.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 324,
+      "name": "./node_modules/core-js/modules/es6.reflect.get-own-property-descriptor.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.reflect.get-prototype-of": [
+    {
+      "id": 325,
+      "name": "./node_modules/core-js/modules/es6.reflect.get-prototype-of.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 325,
+      "name": "./node_modules/core-js/modules/es6.reflect.get-prototype-of.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.reflect.has": [
+    {
+      "id": 326,
+      "name": "./node_modules/core-js/modules/es6.reflect.has.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 326,
+      "name": "./node_modules/core-js/modules/es6.reflect.has.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.reflect.is-extensible": [
+    {
+      "id": 327,
+      "name": "./node_modules/core-js/modules/es6.reflect.is-extensible.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 327,
+      "name": "./node_modules/core-js/modules/es6.reflect.is-extensible.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.reflect.own-keys": [
+    {
+      "id": 328,
+      "name": "./node_modules/core-js/modules/es6.reflect.own-keys.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 328,
+      "name": "./node_modules/core-js/modules/es6.reflect.own-keys.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.reflect.prevent-extensions": [
+    {
+      "id": 329,
+      "name": "./node_modules/core-js/modules/es6.reflect.prevent-extensions.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 329,
+      "name": "./node_modules/core-js/modules/es6.reflect.prevent-extensions.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.reflect.set": [
+    {
+      "id": 330,
+      "name": "./node_modules/core-js/modules/es6.reflect.set.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 330,
+      "name": "./node_modules/core-js/modules/es6.reflect.set.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es6.reflect.set-prototype-of": [
+    {
+      "id": 331,
+      "name": "./node_modules/core-js/modules/es6.reflect.set-prototype-of.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 331,
+      "name": "./node_modules/core-js/modules/es6.reflect.set-prototype-of.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.array.includes": [
+    {
+      "id": 332,
+      "name": "./node_modules/core-js/modules/es7.array.includes.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 332,
+      "name": "./node_modules/core-js/modules/es7.array.includes.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.array.flat-map": [
+    {
+      "id": 333,
+      "name": "./node_modules/core-js/modules/es7.array.flat-map.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 333,
+      "name": "./node_modules/core-js/modules/es7.array.flat-map.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.array.flatten": [
+    {
+      "id": 334,
+      "name": "./node_modules/core-js/modules/es7.array.flatten.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 334,
+      "name": "./node_modules/core-js/modules/es7.array.flatten.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.string.at": [
+    {
+      "id": 335,
+      "name": "./node_modules/core-js/modules/es7.string.at.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 335,
+      "name": "./node_modules/core-js/modules/es7.string.at.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.string.pad-start": [
+    {
+      "id": 336,
+      "name": "./node_modules/core-js/modules/es7.string.pad-start.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 336,
+      "name": "./node_modules/core-js/modules/es7.string.pad-start.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.string.pad-end": [
+    {
+      "id": 337,
+      "name": "./node_modules/core-js/modules/es7.string.pad-end.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 337,
+      "name": "./node_modules/core-js/modules/es7.string.pad-end.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.string.trim-left": [
+    {
+      "id": 338,
+      "name": "./node_modules/core-js/modules/es7.string.trim-left.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 338,
+      "name": "./node_modules/core-js/modules/es7.string.trim-left.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.string.trim-right": [
+    {
+      "id": 339,
+      "name": "./node_modules/core-js/modules/es7.string.trim-right.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 339,
+      "name": "./node_modules/core-js/modules/es7.string.trim-right.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.string.match-all": [
+    {
+      "id": 340,
+      "name": "./node_modules/core-js/modules/es7.string.match-all.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 340,
+      "name": "./node_modules/core-js/modules/es7.string.match-all.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.symbol.async-iterator": [
+    {
+      "id": 341,
+      "name": "./node_modules/core-js/modules/es7.symbol.async-iterator.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 341,
+      "name": "./node_modules/core-js/modules/es7.symbol.async-iterator.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.symbol.observable": [
+    {
+      "id": 342,
+      "name": "./node_modules/core-js/modules/es7.symbol.observable.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 342,
+      "name": "./node_modules/core-js/modules/es7.symbol.observable.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.object.get-own-property-descriptors": [
+    {
+      "id": 343,
+      "name": "./node_modules/core-js/modules/es7.object.get-own-property-descriptors.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 343,
+      "name": "./node_modules/core-js/modules/es7.object.get-own-property-descriptors.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.object.values": [
+    {
+      "id": 344,
+      "name": "./node_modules/core-js/modules/es7.object.values.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 344,
+      "name": "./node_modules/core-js/modules/es7.object.values.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.object.entries": [
+    {
+      "id": 345,
+      "name": "./node_modules/core-js/modules/es7.object.entries.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 345,
+      "name": "./node_modules/core-js/modules/es7.object.entries.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.object.define-getter": [
+    {
+      "id": 346,
+      "name": "./node_modules/core-js/modules/es7.object.define-getter.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 346,
+      "name": "./node_modules/core-js/modules/es7.object.define-getter.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.object.define-setter": [
+    {
+      "id": 347,
+      "name": "./node_modules/core-js/modules/es7.object.define-setter.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 347,
+      "name": "./node_modules/core-js/modules/es7.object.define-setter.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.object.lookup-getter": [
+    {
+      "id": 348,
+      "name": "./node_modules/core-js/modules/es7.object.lookup-getter.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 348,
+      "name": "./node_modules/core-js/modules/es7.object.lookup-getter.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.object.lookup-setter": [
+    {
+      "id": 349,
+      "name": "./node_modules/core-js/modules/es7.object.lookup-setter.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 349,
+      "name": "./node_modules/core-js/modules/es7.object.lookup-setter.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.map.to-json": [
+    {
+      "id": 350,
+      "name": "./node_modules/core-js/modules/es7.map.to-json.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 350,
+      "name": "./node_modules/core-js/modules/es7.map.to-json.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.set.to-json": [
+    {
+      "id": 351,
+      "name": "./node_modules/core-js/modules/es7.set.to-json.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 351,
+      "name": "./node_modules/core-js/modules/es7.set.to-json.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.map.of": [
+    {
+      "id": 352,
+      "name": "./node_modules/core-js/modules/es7.map.of.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 352,
+      "name": "./node_modules/core-js/modules/es7.map.of.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.set.of": [
+    {
+      "id": 353,
+      "name": "./node_modules/core-js/modules/es7.set.of.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 353,
+      "name": "./node_modules/core-js/modules/es7.set.of.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.weak-map.of": [
+    {
+      "id": 354,
+      "name": "./node_modules/core-js/modules/es7.weak-map.of.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 354,
+      "name": "./node_modules/core-js/modules/es7.weak-map.of.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.weak-set.of": [
+    {
+      "id": 355,
+      "name": "./node_modules/core-js/modules/es7.weak-set.of.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 355,
+      "name": "./node_modules/core-js/modules/es7.weak-set.of.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.map.from": [
+    {
+      "id": 356,
+      "name": "./node_modules/core-js/modules/es7.map.from.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 356,
+      "name": "./node_modules/core-js/modules/es7.map.from.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.set.from": [
+    {
+      "id": 357,
+      "name": "./node_modules/core-js/modules/es7.set.from.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 357,
+      "name": "./node_modules/core-js/modules/es7.set.from.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.weak-map.from": [
+    {
+      "id": 358,
+      "name": "./node_modules/core-js/modules/es7.weak-map.from.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 358,
+      "name": "./node_modules/core-js/modules/es7.weak-map.from.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.weak-set.from": [
+    {
+      "id": 359,
+      "name": "./node_modules/core-js/modules/es7.weak-set.from.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 359,
+      "name": "./node_modules/core-js/modules/es7.weak-set.from.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.global": [
+    {
+      "id": 360,
+      "name": "./node_modules/core-js/modules/es7.global.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 360,
+      "name": "./node_modules/core-js/modules/es7.global.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.system.global": [
+    {
+      "id": 361,
+      "name": "./node_modules/core-js/modules/es7.system.global.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 361,
+      "name": "./node_modules/core-js/modules/es7.system.global.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.error.is-error": [
+    {
+      "id": 362,
+      "name": "./node_modules/core-js/modules/es7.error.is-error.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 362,
+      "name": "./node_modules/core-js/modules/es7.error.is-error.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.math.clamp": [
+    {
+      "id": 363,
+      "name": "./node_modules/core-js/modules/es7.math.clamp.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 363,
+      "name": "./node_modules/core-js/modules/es7.math.clamp.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.math.deg-per-rad": [
+    {
+      "id": 364,
+      "name": "./node_modules/core-js/modules/es7.math.deg-per-rad.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 364,
+      "name": "./node_modules/core-js/modules/es7.math.deg-per-rad.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.math.degrees": [
+    {
+      "id": 365,
+      "name": "./node_modules/core-js/modules/es7.math.degrees.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 365,
+      "name": "./node_modules/core-js/modules/es7.math.degrees.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.math.fscale": [
+    {
+      "id": 366,
+      "name": "./node_modules/core-js/modules/es7.math.fscale.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 366,
+      "name": "./node_modules/core-js/modules/es7.math.fscale.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.math.iaddh": [
+    {
+      "id": 367,
+      "name": "./node_modules/core-js/modules/es7.math.iaddh.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 367,
+      "name": "./node_modules/core-js/modules/es7.math.iaddh.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.math.isubh": [
+    {
+      "id": 368,
+      "name": "./node_modules/core-js/modules/es7.math.isubh.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 368,
+      "name": "./node_modules/core-js/modules/es7.math.isubh.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.math.imulh": [
+    {
+      "id": 369,
+      "name": "./node_modules/core-js/modules/es7.math.imulh.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 369,
+      "name": "./node_modules/core-js/modules/es7.math.imulh.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.math.rad-per-deg": [
+    {
+      "id": 370,
+      "name": "./node_modules/core-js/modules/es7.math.rad-per-deg.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 370,
+      "name": "./node_modules/core-js/modules/es7.math.rad-per-deg.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.math.radians": [
+    {
+      "id": 371,
+      "name": "./node_modules/core-js/modules/es7.math.radians.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 371,
+      "name": "./node_modules/core-js/modules/es7.math.radians.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.math.scale": [
+    {
+      "id": 372,
+      "name": "./node_modules/core-js/modules/es7.math.scale.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 372,
+      "name": "./node_modules/core-js/modules/es7.math.scale.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.math.umulh": [
+    {
+      "id": 373,
+      "name": "./node_modules/core-js/modules/es7.math.umulh.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 373,
+      "name": "./node_modules/core-js/modules/es7.math.umulh.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.math.signbit": [
+    {
+      "id": 374,
+      "name": "./node_modules/core-js/modules/es7.math.signbit.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 374,
+      "name": "./node_modules/core-js/modules/es7.math.signbit.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.promise.finally": [
+    {
+      "id": 375,
+      "name": "./node_modules/core-js/modules/es7.promise.finally.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 375,
+      "name": "./node_modules/core-js/modules/es7.promise.finally.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.promise.try": [
+    {
+      "id": 376,
+      "name": "./node_modules/core-js/modules/es7.promise.try.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 376,
+      "name": "./node_modules/core-js/modules/es7.promise.try.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.reflect.define-metadata": [
+    {
+      "id": 377,
+      "name": "./node_modules/core-js/modules/es7.reflect.define-metadata.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 377,
+      "name": "./node_modules/core-js/modules/es7.reflect.define-metadata.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.reflect.delete-metadata": [
+    {
+      "id": 378,
+      "name": "./node_modules/core-js/modules/es7.reflect.delete-metadata.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 378,
+      "name": "./node_modules/core-js/modules/es7.reflect.delete-metadata.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.reflect.get-metadata": [
+    {
+      "id": 379,
+      "name": "./node_modules/core-js/modules/es7.reflect.get-metadata.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 379,
+      "name": "./node_modules/core-js/modules/es7.reflect.get-metadata.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.reflect.get-metadata-keys": [
+    {
+      "id": 380,
+      "name": "./node_modules/core-js/modules/es7.reflect.get-metadata-keys.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 380,
+      "name": "./node_modules/core-js/modules/es7.reflect.get-metadata-keys.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.reflect.get-own-metadata": [
+    {
+      "id": 381,
+      "name": "./node_modules/core-js/modules/es7.reflect.get-own-metadata.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 381,
+      "name": "./node_modules/core-js/modules/es7.reflect.get-own-metadata.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.reflect.get-own-metadata-keys": [
+    {
+      "id": 382,
+      "name": "./node_modules/core-js/modules/es7.reflect.get-own-metadata-keys.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 382,
+      "name": "./node_modules/core-js/modules/es7.reflect.get-own-metadata-keys.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.reflect.has-metadata": [
+    {
+      "id": 383,
+      "name": "./node_modules/core-js/modules/es7.reflect.has-metadata.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 383,
+      "name": "./node_modules/core-js/modules/es7.reflect.has-metadata.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.reflect.has-own-metadata": [
+    {
+      "id": 384,
+      "name": "./node_modules/core-js/modules/es7.reflect.has-own-metadata.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 384,
+      "name": "./node_modules/core-js/modules/es7.reflect.has-own-metadata.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.reflect.metadata": [
+    {
+      "id": 385,
+      "name": "./node_modules/core-js/modules/es7.reflect.metadata.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 385,
+      "name": "./node_modules/core-js/modules/es7.reflect.metadata.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.asap": [
+    {
+      "id": 386,
+      "name": "./node_modules/core-js/modules/es7.asap.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 386,
+      "name": "./node_modules/core-js/modules/es7.asap.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/es7.observable": [
+    {
+      "id": 387,
+      "name": "./node_modules/core-js/modules/es7.observable.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 387,
+      "name": "./node_modules/core-js/modules/es7.observable.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/web.timers": [
+    {
+      "id": 388,
+      "name": "./node_modules/core-js/modules/web.timers.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 388,
+      "name": "./node_modules/core-js/modules/web.timers.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/web.immediate": [
+    {
+      "id": 389,
+      "name": "./node_modules/core-js/modules/web.immediate.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 389,
+      "name": "./node_modules/core-js/modules/web.immediate.js",
+      "file": "styles.css"
+    }
+  ],
+  "./modules/web.dom.iterable": [
+    {
+      "id": 390,
+      "name": "./node_modules/core-js/modules/web.dom.iterable.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 390,
+      "name": "./node_modules/core-js/modules/web.dom.iterable.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_object-keys": [
+    {
+      "id": 40,
+      "name": "./node_modules/core-js/modules/_object-keys.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 40,
+      "name": "./node_modules/core-js/modules/_object-keys.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_iterators": [
+    {
+      "id": 50,
+      "name": "./node_modules/core-js/modules/_iterators.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 50,
+      "name": "./node_modules/core-js/modules/_iterators.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_wks": [
+    {
+      "id": 6,
+      "name": "./node_modules/core-js/modules/_wks.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 6,
+      "name": "./node_modules/core-js/modules/_wks.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_shared": [
+    {
+      "id": 60,
+      "name": "./node_modules/core-js/modules/_shared.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 60,
+      "name": "./node_modules/core-js/modules/_shared.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_object-keys-internal": [
+    {
+      "id": 120,
+      "name": "./node_modules/core-js/modules/_object-keys-internal.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 120,
+      "name": "./node_modules/core-js/modules/_object-keys-internal.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_enum-bug-keys": [
+    {
+      "id": 82,
+      "name": "./node_modules/core-js/modules/_enum-bug-keys.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 82,
+      "name": "./node_modules/core-js/modules/_enum-bug-keys.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_to-iobject": [
+    {
+      "id": 20,
+      "name": "./node_modules/core-js/modules/_to-iobject.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 20,
+      "name": "./node_modules/core-js/modules/_to-iobject.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_array-includes": [
+    {
+      "id": 61,
+      "name": "./node_modules/core-js/modules/_array-includes.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 61,
+      "name": "./node_modules/core-js/modules/_array-includes.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_shared-key": [
+    {
+      "id": 81,
+      "name": "./node_modules/core-js/modules/_shared-key.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 81,
+      "name": "./node_modules/core-js/modules/_shared-key.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_to-length": [
+    {
+      "id": 9,
+      "name": "./node_modules/core-js/modules/_to-length.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 9,
+      "name": "./node_modules/core-js/modules/_to-length.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_to-absolute-index": [
+    {
+      "id": 41,
+      "name": "./node_modules/core-js/modules/_to-absolute-index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 41,
+      "name": "./node_modules/core-js/modules/_to-absolute-index.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_to-integer": [
+    {
+      "id": 29,
+      "name": "./node_modules/core-js/modules/_to-integer.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 29,
+      "name": "./node_modules/core-js/modules/_to-integer.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_iobject": [
+    {
+      "id": 52,
+      "name": "./node_modules/core-js/modules/_iobject.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 52,
+      "name": "./node_modules/core-js/modules/_iobject.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_defined": [
+    {
+      "id": 28,
+      "name": "./node_modules/core-js/modules/_defined.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 28,
+      "name": "./node_modules/core-js/modules/_defined.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_cof": [
+    {
+      "id": 24,
+      "name": "./node_modules/core-js/modules/_cof.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 24,
+      "name": "./node_modules/core-js/modules/_cof.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_task": [
+    {
+      "id": 101,
+      "name": "./node_modules/core-js/modules/_task.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 101,
+      "name": "./node_modules/core-js/modules/_task.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_invoke": [
+    {
+      "id": 125,
+      "name": "./node_modules/core-js/modules/_invoke.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 125,
+      "name": "./node_modules/core-js/modules/_invoke.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_html": [
+    {
+      "id": 83,
+      "name": "./node_modules/core-js/modules/_html.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 83,
+      "name": "./node_modules/core-js/modules/_html.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_user-agent": [
+    {
+      "id": 105,
+      "name": "./node_modules/core-js/modules/_user-agent.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 105,
+      "name": "./node_modules/core-js/modules/_user-agent.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_microtask": [
+    {
+      "id": 102,
+      "name": "./node_modules/core-js/modules/_microtask.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 102,
+      "name": "./node_modules/core-js/modules/_microtask.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_an-instance": [
+    {
+      "id": 45,
+      "name": "./node_modules/core-js/modules/_an-instance.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 45,
+      "name": "./node_modules/core-js/modules/_an-instance.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_redefine-all": [
+    {
+      "id": 47,
+      "name": "./node_modules/core-js/modules/_redefine-all.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 47,
+      "name": "./node_modules/core-js/modules/_redefine-all.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_for-of": [
+    {
+      "id": 46,
+      "name": "./node_modules/core-js/modules/_for-of.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 46,
+      "name": "./node_modules/core-js/modules/_for-of.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_set-species": [
+    {
+      "id": 44,
+      "name": "./node_modules/core-js/modules/_set-species.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 44,
+      "name": "./node_modules/core-js/modules/_set-species.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_iter-call": [
+    {
+      "id": 132,
+      "name": "./node_modules/core-js/modules/_iter-call.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 132,
+      "name": "./node_modules/core-js/modules/_iter-call.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_is-array-iter": [
+    {
+      "id": 95,
+      "name": "./node_modules/core-js/modules/_is-array-iter.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 95,
+      "name": "./node_modules/core-js/modules/_is-array-iter.js",
+      "file": "styles.css"
+    }
+  ],
+  "./core.get-iterator-method": [
+    {
+      "id": 97,
+      "name": "./node_modules/core-js/modules/core.get-iterator-method.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 97,
+      "name": "./node_modules/core-js/modules/core.get-iterator-method.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_classof": [
+    {
+      "id": 54,
+      "name": "./node_modules/core-js/modules/_classof.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 54,
+      "name": "./node_modules/core-js/modules/_classof.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_metadata": [
+    {
+      "id": 33,
+      "name": "./node_modules/core-js/modules/_metadata.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 33,
+      "name": "./node_modules/core-js/modules/_metadata.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_object-gpo": [
+    {
+      "id": 22,
+      "name": "./node_modules/core-js/modules/_object-gpo.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 22,
+      "name": "./node_modules/core-js/modules/_object-gpo.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_to-object": [
+    {
+      "id": 13,
+      "name": "./node_modules/core-js/modules/_to-object.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 13,
+      "name": "./node_modules/core-js/modules/_to-object.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_array-from-iterable": [
+    {
+      "id": 150,
+      "name": "./node_modules/core-js/modules/_array-from-iterable.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 150,
+      "name": "./node_modules/core-js/modules/_array-from-iterable.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_new-promise-capability": [
+    {
+      "id": 103,
+      "name": "./node_modules/core-js/modules/_new-promise-capability.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 103,
+      "name": "./node_modules/core-js/modules/_new-promise-capability.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_perform": [
+    {
+      "id": 137,
+      "name": "./node_modules/core-js/modules/_perform.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 137,
+      "name": "./node_modules/core-js/modules/_perform.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_species-constructor": [
+    {
+      "id": 68,
+      "name": "./node_modules/core-js/modules/_species-constructor.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 68,
+      "name": "./node_modules/core-js/modules/_species-constructor.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_promise-resolve": [
+    {
+      "id": 138,
+      "name": "./node_modules/core-js/modules/_promise-resolve.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 138,
+      "name": "./node_modules/core-js/modules/_promise-resolve.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_math-scale": [
+    {
+      "id": 151,
+      "name": "./node_modules/core-js/modules/_math-scale.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 151,
+      "name": "./node_modules/core-js/modules/_math-scale.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_math-fround": [
+    {
+      "id": 131,
+      "name": "./node_modules/core-js/modules/_math-fround.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 131,
+      "name": "./node_modules/core-js/modules/_math-fround.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_math-sign": [
+    {
+      "id": 88,
+      "name": "./node_modules/core-js/modules/_math-sign.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 88,
+      "name": "./node_modules/core-js/modules/_math-sign.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_set-collection-from": [
+    {
+      "id": 73,
+      "name": "./node_modules/core-js/modules/_set-collection-from.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 73,
+      "name": "./node_modules/core-js/modules/_set-collection-from.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_set-collection-of": [
+    {
+      "id": 72,
+      "name": "./node_modules/core-js/modules/_set-collection-of.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 72,
+      "name": "./node_modules/core-js/modules/_set-collection-of.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_collection-to-json": [
+    {
+      "id": 149,
+      "name": "./node_modules/core-js/modules/_collection-to-json.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 149,
+      "name": "./node_modules/core-js/modules/_collection-to-json.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_object-gopd": [
+    {
+      "id": 21,
+      "name": "./node_modules/core-js/modules/_object-gopd.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 21,
+      "name": "./node_modules/core-js/modules/_object-gopd.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_object-forced-pam": [
+    {
+      "id": 71,
+      "name": "./node_modules/core-js/modules/_object-forced-pam.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 71,
+      "name": "./node_modules/core-js/modules/_object-forced-pam.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_library": [
+    {
+      "id": 39,
+      "name": "./node_modules/core-js/modules/_library.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 39,
+      "name": "./node_modules/core-js/modules/_library.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_object-pie": [
+    {
+      "id": 53,
+      "name": "./node_modules/core-js/modules/_object-pie.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 53,
+      "name": "./node_modules/core-js/modules/_object-pie.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_object-to-array": [
+    {
+      "id": 148,
+      "name": "./node_modules/core-js/modules/_object-to-array.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 148,
+      "name": "./node_modules/core-js/modules/_object-to-array.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_own-keys": [
+    {
+      "id": 145,
+      "name": "./node_modules/core-js/modules/_own-keys.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 145,
+      "name": "./node_modules/core-js/modules/_own-keys.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_create-property": [
+    {
+      "id": 96,
+      "name": "./node_modules/core-js/modules/_create-property.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 96,
+      "name": "./node_modules/core-js/modules/_create-property.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_object-gopn": [
+    {
+      "id": 43,
+      "name": "./node_modules/core-js/modules/_object-gopn.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 43,
+      "name": "./node_modules/core-js/modules/_object-gopn.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_object-gops": [
+    {
+      "id": 62,
+      "name": "./node_modules/core-js/modules/_object-gops.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 62,
+      "name": "./node_modules/core-js/modules/_object-gops.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_wks-define": [
+    {
+      "id": 80,
+      "name": "./node_modules/core-js/modules/_wks-define.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 80,
+      "name": "./node_modules/core-js/modules/_wks-define.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_wks-ext": [
+    {
+      "id": 119,
+      "name": "./node_modules/core-js/modules/_wks-ext.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 119,
+      "name": "./node_modules/core-js/modules/_wks-ext.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_is-regexp": [
+    {
+      "id": 64,
+      "name": "./node_modules/core-js/modules/_is-regexp.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 64,
+      "name": "./node_modules/core-js/modules/_is-regexp.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_flags": [
+    {
+      "id": 66,
+      "name": "./node_modules/core-js/modules/_flags.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 66,
+      "name": "./node_modules/core-js/modules/_flags.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_iter-create": [
+    {
+      "id": 92,
+      "name": "./node_modules/core-js/modules/_iter-create.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 92,
+      "name": "./node_modules/core-js/modules/_iter-create.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_object-create": [
+    {
+      "id": 42,
+      "name": "./node_modules/core-js/modules/_object-create.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 42,
+      "name": "./node_modules/core-js/modules/_object-create.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_set-to-string-tag": [
+    {
+      "id": 48,
+      "name": "./node_modules/core-js/modules/_set-to-string-tag.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 48,
+      "name": "./node_modules/core-js/modules/_set-to-string-tag.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_object-dps": [
+    {
+      "id": 121,
+      "name": "./node_modules/core-js/modules/_object-dps.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 121,
+      "name": "./node_modules/core-js/modules/_object-dps.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_string-trim": [
+    {
+      "id": 49,
+      "name": "./node_modules/core-js/modules/_string-trim.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 49,
+      "name": "./node_modules/core-js/modules/_string-trim.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_string-ws": [
+    {
+      "id": 85,
+      "name": "./node_modules/core-js/modules/_string-ws.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 85,
+      "name": "./node_modules/core-js/modules/_string-ws.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_string-pad": [
+    {
+      "id": 147,
+      "name": "./node_modules/core-js/modules/_string-pad.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 147,
+      "name": "./node_modules/core-js/modules/_string-pad.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_string-repeat": [
+    {
+      "id": 87,
+      "name": "./node_modules/core-js/modules/_string-repeat.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 87,
+      "name": "./node_modules/core-js/modules/_string-repeat.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_string-at": [
+    {
+      "id": 90,
+      "name": "./node_modules/core-js/modules/_string-at.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 90,
+      "name": "./node_modules/core-js/modules/_string-at.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_flatten-into-array": [
+    {
+      "id": 146,
+      "name": "./node_modules/core-js/modules/_flatten-into-array.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 146,
+      "name": "./node_modules/core-js/modules/_flatten-into-array.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_array-species-create": [
+    {
+      "id": 98,
+      "name": "./node_modules/core-js/modules/_array-species-create.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 98,
+      "name": "./node_modules/core-js/modules/_array-species-create.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_add-to-unscopables": [
+    {
+      "id": 35,
+      "name": "./node_modules/core-js/modules/_add-to-unscopables.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 35,
+      "name": "./node_modules/core-js/modules/_add-to-unscopables.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_array-species-constructor": [
+    {
+      "id": 285,
+      "name": "./node_modules/core-js/modules/_array-species-constructor.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 285,
+      "name": "./node_modules/core-js/modules/_array-species-constructor.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_is-array": [
+    {
+      "id": 63,
+      "name": "./node_modules/core-js/modules/_is-array.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 63,
+      "name": "./node_modules/core-js/modules/_is-array.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_set-proto": [
+    {
+      "id": 84,
+      "name": "./node_modules/core-js/modules/_set-proto.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 84,
+      "name": "./node_modules/core-js/modules/_set-proto.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_bind": [
+    {
+      "id": 124,
+      "name": "./node_modules/core-js/modules/_bind.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 124,
+      "name": "./node_modules/core-js/modules/_bind.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_typed-array": [
+    {
+      "id": 32,
+      "name": "./node_modules/core-js/modules/_typed-array.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 32,
+      "name": "./node_modules/core-js/modules/_typed-array.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_typed": [
+    {
+      "id": 70,
+      "name": "./node_modules/core-js/modules/_typed.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 70,
+      "name": "./node_modules/core-js/modules/_typed.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_typed-buffer": [
+    {
+      "id": 104,
+      "name": "./node_modules/core-js/modules/_typed-buffer.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 104,
+      "name": "./node_modules/core-js/modules/_typed-buffer.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_to-index": [
+    {
+      "id": 144,
+      "name": "./node_modules/core-js/modules/_to-index.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 144,
+      "name": "./node_modules/core-js/modules/_to-index.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_array-methods": [
+    {
+      "id": 31,
+      "name": "./node_modules/core-js/modules/_array-methods.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 31,
+      "name": "./node_modules/core-js/modules/_array-methods.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_iter-detect": [
+    {
+      "id": 65,
+      "name": "./node_modules/core-js/modules/_iter-detect.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 65,
+      "name": "./node_modules/core-js/modules/_iter-detect.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_array-fill": [
+    {
+      "id": 99,
+      "name": "./node_modules/core-js/modules/_array-fill.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 99,
+      "name": "./node_modules/core-js/modules/_array-fill.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_array-copy-within": [
+    {
+      "id": 134,
+      "name": "./node_modules/core-js/modules/_array-copy-within.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 134,
+      "name": "./node_modules/core-js/modules/_array-copy-within.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_collection-weak": [
+    {
+      "id": 143,
+      "name": "./node_modules/core-js/modules/_collection-weak.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 143,
+      "name": "./node_modules/core-js/modules/_collection-weak.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_validate-collection": [
+    {
+      "id": 51,
+      "name": "./node_modules/core-js/modules/_validate-collection.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 51,
+      "name": "./node_modules/core-js/modules/_validate-collection.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_collection": [
+    {
+      "id": 69,
+      "name": "./node_modules/core-js/modules/_collection.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 69,
+      "name": "./node_modules/core-js/modules/_collection.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_meta": [
+    {
+      "id": 34,
+      "name": "./node_modules/core-js/modules/_meta.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 34,
+      "name": "./node_modules/core-js/modules/_meta.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_inherit-if-required": [
+    {
+      "id": 86,
+      "name": "./node_modules/core-js/modules/_inherit-if-required.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 86,
+      "name": "./node_modules/core-js/modules/_inherit-if-required.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_object-assign": [
+    {
+      "id": 123,
+      "name": "./node_modules/core-js/modules/_object-assign.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 123,
+      "name": "./node_modules/core-js/modules/_object-assign.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_collection-strong": [
+    {
+      "id": 140,
+      "name": "./node_modules/core-js/modules/_collection-strong.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 140,
+      "name": "./node_modules/core-js/modules/_collection-strong.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_iter-define": [
+    {
+      "id": 91,
+      "name": "./node_modules/core-js/modules/_iter-define.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 91,
+      "name": "./node_modules/core-js/modules/_iter-define.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_iter-step": [
+    {
+      "id": 135,
+      "name": "./node_modules/core-js/modules/_iter-step.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 135,
+      "name": "./node_modules/core-js/modules/_iter-step.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_fix-re-wks": [
+    {
+      "id": 67,
+      "name": "./node_modules/core-js/modules/_fix-re-wks.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 67,
+      "name": "./node_modules/core-js/modules/_fix-re-wks.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_strict-method": [
+    {
+      "id": 25,
+      "name": "./node_modules/core-js/modules/_strict-method.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 25,
+      "name": "./node_modules/core-js/modules/_strict-method.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_array-reduce": [
+    {
+      "id": 133,
+      "name": "./node_modules/core-js/modules/_array-reduce.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 133,
+      "name": "./node_modules/core-js/modules/_array-reduce.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_date-to-primitive": [
+    {
+      "id": 277,
+      "name": "./node_modules/core-js/modules/_date-to-primitive.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 277,
+      "name": "./node_modules/core-js/modules/_date-to-primitive.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_date-to-iso-string": [
+    {
+      "id": 274,
+      "name": "./node_modules/core-js/modules/_date-to-iso-string.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 274,
+      "name": "./node_modules/core-js/modules/_date-to-iso-string.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_string-html": [
+    {
+      "id": 19,
+      "name": "./node_modules/core-js/modules/_string-html.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 19,
+      "name": "./node_modules/core-js/modules/_string-html.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_string-context": [
+    {
+      "id": 93,
+      "name": "./node_modules/core-js/modules/_string-context.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 93,
+      "name": "./node_modules/core-js/modules/_string-context.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_fails-is-regexp": [
+    {
+      "id": 94,
+      "name": "./node_modules/core-js/modules/_fails-is-regexp.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 94,
+      "name": "./node_modules/core-js/modules/_fails-is-regexp.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_math-expm1": [
+    {
+      "id": 89,
+      "name": "./node_modules/core-js/modules/_math-expm1.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 89,
+      "name": "./node_modules/core-js/modules/_math-expm1.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_math-log1p": [
+    {
+      "id": 130,
+      "name": "./node_modules/core-js/modules/_math-log1p.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 130,
+      "name": "./node_modules/core-js/modules/_math-log1p.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_parse-int": [
+    {
+      "id": 126,
+      "name": "./node_modules/core-js/modules/_parse-int.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 126,
+      "name": "./node_modules/core-js/modules/_parse-int.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_parse-float": [
+    {
+      "id": 127,
+      "name": "./node_modules/core-js/modules/_parse-float.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 127,
+      "name": "./node_modules/core-js/modules/_parse-float.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_is-integer": [
+    {
+      "id": 129,
+      "name": "./node_modules/core-js/modules/_is-integer.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 129,
+      "name": "./node_modules/core-js/modules/_is-integer.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_a-number-value": [
+    {
+      "id": 128,
+      "name": "./node_modules/core-js/modules/_a-number-value.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 128,
+      "name": "./node_modules/core-js/modules/_a-number-value.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_same-value": [
+    {
+      "id": 212,
+      "name": "./node_modules/core-js/modules/_same-value.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 212,
+      "name": "./node_modules/core-js/modules/_same-value.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_object-sap": [
+    {
+      "id": 30,
+      "name": "./node_modules/core-js/modules/_object-sap.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 30,
+      "name": "./node_modules/core-js/modules/_object-sap.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_object-gopn-ext": [
+    {
+      "id": 122,
+      "name": "./node_modules/core-js/modules/_object-gopn-ext.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 122,
+      "name": "./node_modules/core-js/modules/_object-gopn-ext.js",
+      "file": "styles.css"
+    }
+  ],
+  "./_enum-keys": [
+    {
+      "id": 196,
+      "name": "./node_modules/core-js/modules/_enum-keys.js",
+      "file": "bundle.js"
+    },
+    {
+      "id": 196,
+      "name": "./node_modules/core-js/modules/_enum-keys.js",
+      "file": "styles.css"
+    }
+  ]
+}
