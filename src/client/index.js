@@ -1,3 +1,5 @@
+import './styles/global.scss';
+
 import "babel-polyfill";
 import React from 'react';
 import ReactDOM from 'react-dom';

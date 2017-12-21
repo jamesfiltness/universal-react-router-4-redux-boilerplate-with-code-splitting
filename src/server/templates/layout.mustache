@@ -1,0 +1,17 @@
+<!doctype html>
+<head>
+  <title>React Router 4/Redux boilerplate</title>
+  <link href="{{assets.app.css}}" media="all" rel="stylesheet" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+  <div id="app">{{{html}}}</div>
+  <script>
+    window.__PRELOADED_STATE__ = {{{serverState}}}
+  </script>
+  <script src="{{assets.vendor.js}}"></script>
+  <script src="{{assets.app.js}}"></script>
+  {{{bundlesString}}}
+  <script>window.main();</script>
+</body>
+</html>
