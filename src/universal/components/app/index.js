@@ -17,7 +17,7 @@ class App extends React.Component {
 
   render() {
     return (
-      <div className="ummy">
+      <div className="app">
         <ul className="nav">
           <li><Link to="/">Home</Link></li>
           <li><Link to="/about">About</Link></li>

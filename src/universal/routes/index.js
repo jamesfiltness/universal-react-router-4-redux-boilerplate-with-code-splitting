@@ -14,12 +14,18 @@ function Loading(props) {
 }
 
 const AsyncAbout = Loadable({
-  loader: () => import('../components/about'),
+  loader: () => import(
+    /* webpackChunkName: "about" */
+    '../components/about'
+  ),
   loading: Loading,
 });
 
 const AsyncHome = Loadable({
-  loader: () => import('../components/home'),
+  loader: () => import(
+    /* webpackChunkName: "home" */
+    '../components/home'
+  ),
   loading: Loading,
 });
 

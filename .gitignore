@@ -1,3 +1,5 @@
 node_modules
 dist
 .DS_Store
+src/webpack-assets.json
+react-loadable.json

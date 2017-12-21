@@ -57,25 +57,14 @@ export default () => {
     if (context.url) {
       res.redirect(301, context.url);
     } else {
-      res.send(`
-        <!doctype html>
-        <head>
-          <title>React Router 4/Redux boilerplate</title>
-          <link href="http://localhost:3000/styles.css" media="all" rel="stylesheet" />
-        </head>
-        <body>
-          <div id="app">${html}</div>
-          <script>
-            window.__PRELOADED_STATE__ = ${JSON.stringify(serverState)}
-          </script>
-          <script src="http://localhost:3000/bundle.js"></script>
-          ${bundles.map(bundle => {
-            return `<script src="http://localhost:3000/${bundle.file}"></script>`
-          }).join('\n')}
-          <script>window.main();</script>
-        </body>
-        </html>
-      `);
+      // TODO: this could be a dynamic import
+      const assets = require('../../../webpack-assets.json');
+      const serverStateStringified = JSON.stringify(serverState);
+      const bundlesString = bundles.map(bundle => {
+        return `<script src="http://localhost:3000/${bundle.file}"></script>`
+      }).join('\n');
+
+      res.render('layout', { html, assets, serverState: serverStateStringified, bundlesString })
     }
   }
 }

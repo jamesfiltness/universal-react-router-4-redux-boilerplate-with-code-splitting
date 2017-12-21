@@ -1,6 +1,7 @@
 import path from 'path';
 import webpack from 'webpack';
 import ExtractTextPlugin from 'extract-text-webpack-plugin';
+import AssetsPlugin from 'assets-webpack-plugin';
 import { ReactLoadablePlugin } from 'react-loadable/webpack';
 
 module.exports = {
@@ -46,10 +47,13 @@ module.exports = {
       name: "vendor",
       minChunks: Infinity,
     }),
+    new AssetsPlugin({
+      filename: './src/webpack-assets.json',
+    }),
   ],
   output: {
     path: path.join(__dirname, 'dist'),
-    filename: 'bundle-[chunkhash].js',
-    chunkFilename: 'bundle-[chunkhash].js',
+    filename: '[name].bundle.[chunkhash].js',
+    chunkFilename: '[name].chunk.[chunkhash].js',
   }
 }
