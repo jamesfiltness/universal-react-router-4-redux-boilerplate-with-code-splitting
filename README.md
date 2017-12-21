@@ -26,3 +26,6 @@ Run `npm i` followed by `npm start` to get the app running at `localhost:3000`. 
 * Html / css / js minified
 * Editorconfig
 * Test data fetching failure
+* Express error handler middleware
+* React error boundary example
+* security features such as Helmet, csp headers, csurf and nsp checker
