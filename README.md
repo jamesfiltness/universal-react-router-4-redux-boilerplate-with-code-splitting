@@ -12,3 +12,17 @@ This boilerplate demonstrates a minimal universal React/Redux/React Router 4 SPA
 I'll flesh this out (and tidy up) with other features to make this a more complete boilerplate shortly.
 
 Run `npm i` followed by `npm start` to get the app running at `localhost:3000`. Check the network tab to see bundles being pulled in on demand.
+
+### TODOS:
+
+* Webpack dev server and nodemon
+* Jest plus coverage
+* ESLint
+* Git hooks
+* Fonts and files
+* Production build
+* Basic Docker setup
+* Nginx
+* Html / css / js minified
+* Editorconfig
+* Test data fetching failure
