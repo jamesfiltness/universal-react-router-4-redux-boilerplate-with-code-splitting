@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "prestart": "BABEL_ENV=browser ./node_modules/.bin/webpack",
-    "start": "BABEL_ENV=node babel-watch ./src/server"
+    "start": "nodemon --exec BABEL_ENV=node babel-watch ./src/server"
   },
   "author": "James Filtness",
   "dependencies": {
