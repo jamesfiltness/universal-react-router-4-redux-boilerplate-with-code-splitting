@@ -41,9 +41,9 @@ module.exports = {
       filename: './dist/react-loadable.json',
     }),
     new ExtractTextPlugin({
-     filename: 'styles-[chunkhash].css',
-   }),
-   new webpack.optimize.CommonsChunkPlugin({
+      filename: 'styles.css',
+    }),
+    new webpack.optimize.CommonsChunkPlugin({
       name: "vendor",
       minChunks: Infinity,
     }),
@@ -53,7 +53,7 @@ module.exports = {
   ],
   output: {
     path: path.join(__dirname, 'dist'),
-    filename: '[name].bundle.[chunkhash].js',
-    chunkFilename: '[name].chunk.[chunkhash].js',
+    filename: '[name].bundle.js',
+    chunkFilename: '[name].chunk.js',
   }
 }

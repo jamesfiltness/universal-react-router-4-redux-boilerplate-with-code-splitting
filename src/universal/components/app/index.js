@@ -40,4 +40,4 @@ function mapDispatchToProps(dispatch) {
   return bindActionCreators(appActions, dispatch);
 }
 
-export default withRouter(connect(mapStateToProps, mapDispatchToProps)(App))
+export default withRouter(connect(mapStateToProps, mapDispatchToProps)(App));
