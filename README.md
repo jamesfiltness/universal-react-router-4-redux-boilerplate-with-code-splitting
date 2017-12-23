@@ -15,7 +15,6 @@ Run `npm i` followed by `npm start` to get the app running at `localhost:3000`. 
 
 ### TODOS:
 
-* Webpack dev server and nodemon
 * Jest plus coverage
 * ESLint
 * Git hooks
@@ -28,4 +27,5 @@ Run `npm i` followed by `npm start` to get the app running at `localhost:3000`. 
 * Test data fetching failure
 * Express error handler middleware
 * React error boundary example
+* Application logging
 * security features such as Helmet, csp headers, csurf and nsp checker

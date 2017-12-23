@@ -9,7 +9,7 @@ const app = express();
 app.engine('mustache', mustacheExpress());
 app.set('view engine', 'mustache');
 
-app.set('views', './src/server/templates')
+app.set('views', './src/server/templates');
 
 app.use(express.static('dist'));
 app.use(expressRouter);
