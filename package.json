@@ -4,9 +4,10 @@
   "description": "Experimenting with React Router 4 and how it can work with Redux",
   "main": "server.js",
   "scripts": {
+    "prestart": "bin/prestart",
+    "start": "npm-run-all -p start:*",
     "start:client": "BABEL_ENV=browser ./node_modules/.bin/webpack --watch",
-    "start:server": "BABEL_ENV=node nodemon --exec babel-node ./src/server",
-    "start": "npm-run-all -p start:*"
+    "start:server": "BABEL_ENV=node nodemon --exec babel-node ./src/server"
   },
   "author": "James Filtness",
   "dependencies": {

@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# This script checks for the existence of the react-loadable.json file which is required by the
+# React Router middleware (src/server/middleware/react-router) so that react-loadable knows which bundles
+# to send in the initial payload. If this file doesn't exist the node app fails.
+
+if [ ! -e dist/react-loadable.json ]
+then
+  echo "Running Webpack to generate react-loadable.json. See bin/prestart for details"
+  BABEL_ENV=browser ./node_modules/.bin/webpack
+fi
