@@ -1,6 +1,6 @@
 # Universal React Router 4 Redux boilerplate with code splitting
 
-This boilerplate was created having read [this](https://reacttraining.com/react-router/web/guides/code-splitting/code-splitting-server-rendering) in React Router 4's documentation for code splitting:
+This boilerplate was created having read this in React Router 4's documentation for code splitting:
 
 > ### Code-splitting + server rendering
 > We’ve tried and failed a couple of times...
