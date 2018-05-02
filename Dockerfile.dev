@@ -1,0 +1,17 @@
+# Use the official Node 8 runtime as a parent image
+FROM node:boron
+
+# Set the working directory to /app
+WORKDIR /app
+
+# Copy the current directory contents into the container at /app
+COPY . /app
+
+# Install node dependencies
+RUN npm install
+
+# Run node app when the container launches
+CMD ["node", "."]
+
+# Make port 3000 available to the world outside this container
+EXPOSE 3000
